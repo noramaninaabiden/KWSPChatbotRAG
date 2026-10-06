@@ -2,7 +2,7 @@
 
 A bilingual (English / Bahasa Melayu) question-answering chatbot over Malaysia's Employees Provident Fund Act 1991. Built as a data engineering portfolio project: the focus is the pipeline, data quality and evaluation behind the chatbot, not just the chat window.
 
-**Live demo:** <PASTE YOUR STREAMLIT URL>
+**Live demo:** <https://kwspchatbotrag-eqdlhjj4gfnpuukydfgesu.streamlit.app/>
 The app sleeps when idle, so the first load can take a minute.
 
 ![Demo](docs/demo.png)
