@@ -1,0 +1,2296 @@
+
+
+    Skip to Main Content
+
+Member
+Employer
+Corporate
+EN
+EPF Act 1991: Legal Framework Overview
+EPF Act 1991
+
+ACT 452
+EMPLOYEES PROVIDENT FUND ACT 1991
+
+An Act to provide for the law relating to a scheme of savings for employees' retirement and the management of the savings for the retirement purposes and for matters incidental thereto.
+
+[1 June 1991, P.U. (B) 264/1991; Subs. Act A1300; 2007]
+
+BE IT ENACTED by the Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by authority of the same, as follows:
+
+PART I
+PRELIMINARY
+
+Section 1
+
+Short title and commencement
+
+    This Act may be cited as the Employees Provident Fund Act 1991.
+    This Act shall come into force on such date as the Minister may, by notification in the Gazette, appoint.
+
+Section 2
+
+Interpretation
+
+In this Act, unless the context otherwise requires—
+"additional amount" means the amount which may be paid under section 58;
+
+[Am. Act A1300/2007]
+
+"amount of wages for the month" means—
+
+    in respect of an employee paid monthly or at intervals of longer than a month, the amount of wages due to him in respect of the month; or
+    in respect of any other employee, the aggregate amount of wages due to him on such pay days as fall within the month:
+
+Provided that where arrears of wages are paid to an employee upon any wage revision, such arrears of wages shall for the purposes of this Act be deemed to be part of the amount of wages for the month in which the arrears of wages are paid in addition to the amount of wages due to him in respect of the month referred to in paragraph (a) or (b);
+
+"appointed day" means the day appointed by the Minister under subsection 1(2);
+
+"approved company" means a company— 
+
+    incorporated in Malaysia and having a place of business in Malaysia;
+    (i) having as its sole or primary object the promotion of home ownership by advancing for the purchase of lands and buildings sums of money, repayable by instalments of principal and interest over a fixed period of years, not exceeding at any time the valuation of such lands and buildings made by a licensed land surveyor or a licensed appraiser; or
+    (ii) in which the Government of Malaysia has participation and having as its sole or primary object the financing of industries; and
+    approved by the Minister by notification in the Gazette for the purpose of receiving loans from the Board in accordance with section 26A;
+
+[Am. Act A914/1995]
+ 
+
+"approved fund" means—
+
+    a provident fund or other scheme for the benefit of employees established by an employer or by a group of employers and declared by the Board under section 52 to be an approved fund, and includes-
+        any scheme in respect of persons who are in the employment of the Government of Malaysia, any State Government or any statutory or local authority and are emplaced on the pensionable establishment;
+        any arrangement in respect of persons in the employment of any organization where the appointment to such organization is made by or with the approval of the Government of Malaysia of a person who prior to such appointment was in the employment of the Government of Malaysia, any State Government or any statutory or local authority and where the period of service with such organization is reckonable for the purposes of the grant of any pension, gratuity or other benefit by the Government of Malaysia under any written law relating to pensions,
+
+        and if any doubt arises as to whether any person is in such employment or not, the decision of the Minister shall be final; or
+    any scheme expressly established by any written law immediately before 6 August 1970, for the benefit of the employees in any trade, business, industry or occupation:
+
+    Provided that such scheme shall cease to be an approved fund upon the Minister declaring that it shall cease to be so;
+
+   "Board" means the Employees Provident Fund Board established under section 3;
+
+   "Chairman" in relation to the Board includes the Deputy Chairman;
+
+"loan" includes financing in accordance with Shariah;
+
+[Ins. Act A1504/ 2016]
+
+   "chief executive officer" means any person appointed to be a chief executive officer under section 30 of the Act;
+
+[Ins. Act A958/ 1996]
+
+"credit" means the contributions standing to the account of a member of the Fund together with any dividend thereon;
+
+   "employee" means any person, not being a person of the descriptions specified in the First Schedule, who is employed under a contract of service or apprenticeship, whether written or oral and whether expressed or implied, to work for an employer;
+
+[Am. Act A914/1995; A1123/2001]
+
+   "employer" means the person with whom an employee has entered into a contract of service or apprenticeship and includes—
+
+    a manager, agent or person responsible for the payment of salary or wages to an "employee";
+    any body of persons whether or not statutory or incorporated; and
+    any Government, department of Government, statutory bodies, local authorities or other bodies specified in the Second Schedule and, where an employee is employed with any such Government, department, authority or body or with any officer on behalf of any such Government, department, authority or body, the officer under whom such employee is working shall be deemed to be an employer:
+
+    Provided that no such officer shall be personally liable under this Act for anything done or omitted to be done in good faith by him as an officer of such employer;
+
+"Fund" means the fund set up under section 24;
+
+"gratuity" means any payment paid by an employer to an employee upon completion of service or voluntary resignation as a recognition of such employee's service;
+
+[Ins. Act A914/1995]
+
+"house" means any dwelling house built or being built and includes a flat, condominium or shophouse built or being built for the purpose of dwelling or partly for dwelling and partly for carrying on a business, trade or profession therein;
+
+"Inspector" means an Inspector appointed under section 34;
+
+[Am. Act A914/ 1995]
+
+"member of the Fund" means a person who has an account and credit with the Fund;
+
+[Am. Act A1300/ 2007]
+
+"Minister" means the Minister charged with responsibility for matters relating to the Employees Provident Fund Board;
+
+[Am. Act A914/ 1995]
+
+"month" means a calendar month or a part thereof;
+
+"new scheme" means the revised salaries and terms and conditions of service of employees in the service of the Government of Malaysia or of any State or of a statutory or local authority arising from the revision of salaries and terms and conditions of service of such employees made by the Government of Malaysia or of any State;
+
+"overtime payment" means any payment due from an employer to an employee for work carried out in excess of the normal working hours of such employee and includes any payment paid to an employee for work carried out on public holidays and rest days;
+
+[Ins. Act A914/1995]
+
+"pensionable employee" means an employee who has been emplaced in the appropriate pensionable establishment or is deemed to have been so emplaced under any written law affecting the emplacement of employees in the appropriate pensionable establishment by the Government of Malaysia or of any State or by any statutory or local authority;
+
+"person" includes any agent, company, association or body of persons corporate or unincorporate;
+
+"prescribed by the Board" means prescribed by rules made under this Act;
+
+[Ins. Act A1300/ 2007]
+
+"prescribed by the Minister" means prescribed by regulations made under this Act;
+
+[Ins. Act A1300/ 2007]
+
+"retirement benefit" means any payment paid to an employee upon retirement either compulsory or optional or on medical grounds as stated under the contract of service of the employee;
+
+[Ins. Act A914/1995]
+
+"self-employed person" means any person who is gainfully occupied and is not an employee;
+
+"service charge" means any money or payment, whether in the form of a service charge, a service fee, a tip, or otherwise howsoever described, which has been paid by, charged on, collected from, or voluntarily given by, a customer or any other person (not being the employer) in relation to the employer's business and which is payable to an employee whether in whole or in part, directly or indirectly, and whether under a contract of service between the employer and the employee, or otherwise;
+
+"special housing loan" means any loan to an approved company solely for the purpose of relending to borrowers for the purchase of low cost houses;
+
+[Ins. Act A914/1995]
+
+"wages" means all remuneration in money, due to an employee under his contract of service or apprenticeship whether agreed to be paid monthly, weekly, daily or otherwise and includes any bonus, commission or allowance payable by the employer to the employee whether such bonus, commission or allowance is payable under his contract of service, apprenticeship or otherwise, but does not include—
+
+[Am. Act A1080/ 2000]
+
+    service charge;
+    overtime payment;
+    gratuity;
+    retirement benefit;
+
+    [Am. Act A1080/ 2000]
+    retrenchment, lay-off or termination benefits;
+
+    [Ins. Act A914/ 1995]
+    any travelling allowance or the value of any travelling concession; or
+
+    [Ins. Act A914/ 1995]
+    any other remuneration or payment as may be exempted by the Minister.
+
+[Ins. Act A914/ 1995]
+
+PART II
+
+THE BOARD AND THE INVESTMENT PANEL
+
+Section 3
+
+Establishment of the Board
+
+For the purposes of managing the Fund and for carrying into effect the purposes of this Act, a body corporate by the name of "Employees Provident Fund Board" is established with perpetual succession and a common seal, and which may sue and be sued in its corporate name and, subject to and for the purposes of this Act, may enter into contracts and may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with any movable or immovable property or any interest therein vested in the Board upon such terms as it deems fit.
+
+[Am. Act A1300/ 2007]
+
+Section 4
+
+Membership of the Board
+
+    The Board shall consist of—
+        a Chairman;
+        a Deputy Chairman to be appointed from amongst the persons referred to in subparagraph (d)(i);
+        the chief executive officer, who shall be an ex-officio member; and
+
+        [Am. Act A958/ 1996]
+        not more than twenty other members of whom—
+
+        [Am. Act A1611/ 2019]
+            not more than five shall be persons who are holding office of emolument under the Government of Malaysia or of a State;
+
+            [Am. Act A1611/ 2019]
+            not more than five shall be employers contributing to the Fund and not being persons holding office of emolument under the Government of Malaysia or of a State or employed by any statutory or local authority;
+
+            [Am. Act A1611/ 2019]
+            not more than five shall be employees contributing to the Fund; and
+
+            [Am. Act A1611/ 2019]
+            not more than five shall be persons who shall have knowledge or experience in finance, business, economy, social security or other relevant knowledge or experience.
+
+            [Am. Act A1611/ 2019]
+    Where the Chairman is not a representative of the Ministry of Finance, the Minister shall appoint a representative of the Ministry of Finance to be a member of the Board under subparagraph (1)(d)(i) who shall also be appointed the Deputy Chairman.
+    Members of the Board shall be appointed by the Minister and, subject to sections 6 and 7 shall, unless they sooner resign or their appointment is sooner revoked, hold office for such term as the Minister may determine.
+    Members of the Board shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Minister may determine.
+
+[Am. Act A914/ 1995]
+
+Section 5
+
+Alternate members
+
+    The Minister may in respect of each of the members appointed under subparagraph 4(1)(d)(i) appoint by name a person to be an alternate member to attend meetings of the Board in place of the member when the member is for any reason unable to attend.
+    When attending meetings of the Board in place of a member, an alternate member shall for all purposes be deemed to be a member of the Board.
+    An alternate member shall cease to be an alternate member when the member in respect of whom he is an alternate member ceases to be a member of the Board.
+
+Section 6
+
+Tenure of office
+
+(1) Subject to subsection 7(2), sections 8 and 22, a member of the Board, other than the chief executive officer, shall hold office for a term not exceeding three years.
+
+[Am. Act A958/ 1996; A1611/ 2019]
+
+(2) A member of the Board referred to in subsection (1) shall be eligible for reappointment but no member shall hold office for a total term of more than twelve years.
+
+[Ins. Act A1611/ 2019]
+
+Section 7
+
+Resignation and revocation
+
+    A member of the Board, including the Deputy Chairman, may at any time resign his office by a written notice addressed to the Chairman, and in the case of the Chairman by a written notice addressed to the Minister.
+    The Minister may at any time revoke the appointment of a member of the Board if he thinks it is expedient so to do without assigning any reason therefor.
+
+Section 8
+
+Vacation of office
+
+A member of the Board shall be deemed to have vacated his office—
+
+    upon his death; or
+    upon his failure to attend three consecutive meetings of the Board without the permission of the Chairman.
+
+Section 9
+
+Quorum of the Board
+
+[Subs. Act A1611/2019]
+
+    The Chairman or the Deputy Chairman and eight other members shall form a quorum at all meetings of the Board.
+
+    [Am. Act A1611/ 2019]
+    In the absence of the Chairman, the Deputy Chairman shall preside at all meetings of the Board and, may exercise all the powers of the Chairman in respect of that meeting.
+    The Board shall have powers to determine the conduct of its proceedings.
+
+Section 10
+
+Chairman to have casting vote
+
+    If on any question to be determined there is an equality of votes, the Chairman shall have the casting vote in addition to his original vote.
+    Where the Chairman is also the chief executive officer, he shall have no vote in his capacity as the chief executive officer.
+
+[Am. Act A958/ 1996]
+
+Section 11
+
+Power of Minister to give directions
+
+The Minister may give to the Board directions of a general nature not inconsistent with the provisions of this Act as to the exercise of the functions and powers of the Board and the Board shall give effect to those directions.
+
+Section 12
+
+Duty to furnish the Minister with information
+
+The Board shall furnish the Minister with such information relating to its activities as he may, from time to time, require.
+
+Section 13
+
+Authentication of seal
+
+All deeds, documents and other instruments requiring the seal of the Board shall be sealed with the common seal of the Board in the presence of the Chairman and the chief executive officer, or either the Chairman or the chief executive officer and one other member of the Board or any two other members of the Board, and any deed, document or instrument purporting to be sealed with the common seal of the Board and so authenticated shall until the contrary is proved, be deemed to have been validly executed:
+ 
+
+         Provided that where the Chairman is also the chief executive officer the common seal of the Board shall be sealed in the presence of the Chairman and one other member of the Board or any two other members of the Board.
+
+[Am. Act A914/ 1995]
+
+Section 14
+
+Powers and duties of the Board
+
+    The Board shall have such powers and shall perform such duties as are given or imposed by this Act
+    The Board may, by instrument under its seal, appoint any person and delegate to such person whether in Malaysia or any place outside Malaysia all or any of such powers and duties of the Board and the person so appointed may, subject to the instrument, do any act or exercise any power or carry out any duty which he is authorized by the instrument to do or execute.
+    The Board may employ and pay agents, advocates and solicitors, bankers, stockbrokers or any other persons, to transact any business or do any act required to be transacted or done in the exercise of its powers or in the carrying out of its duties or for the better carrying into effect of the purposes of this Act.
+
+Section 15
+
+General reserve and other reserve accounts
+
+    The Board may establish and manage a general reserve and other reserve accounts.
+    The payment into and out of the reserve accounts shall be determined by the Board.
+
+Section 16
+
+Board may establish any committee
+
+Notwithstanding any other provisions of this Act, the Board may appoint any person or establish any committee in respect of any matter relating to the management and administration of the Fund.
+
+Section 17
+
+Power to grant loans and make advances to its officers and servants
+
+The Board may grant loans and make advances to its officers and servants on such terms and conditions as the Board may determine.
+
+Section 18
+
+Establishment and membership of the Investment Panel
+
+    An Investment Panel responsible for matters pertaining to the investments of the Fund and which shall consist of the following members is established:
+        the Chairman, or any other person to be appointed by the Minister, who shall be the Chairman of the Investment Panel;
+        the Deputy Chairman who shall be a representative of the Ministry of Finance;
+        (Deleted by Act A1611);
+        the chief executive officer, who shall be an ex-officio member; and
+        four other persons who shall have knowledge or experience in finance, business, economy or other relevant knowledge or experience, to be appointed by the Minister.
+
+        [Subs. Act A1300/ 2007; Am. Act A1611/ 2019]
+    The Investment Panel shall be subject to such directions issued by the Board and approved by the Minister, from time to time.
+    Members of the Investment Panel shall not be entitled to any remuneration but may be paid such honorarium and travelling and subsistence allowances as the Board may, with the approval of the Minister, determine.
+
+Section 19
+
+Vacation of office
+
+A member of the Investment Panel shall be deemed to have vacated his office—
+
+    upon his death; or
+    upon his failure to attend three consecutive meetings of the Investment Panel without the permission of the Chairman of the Investment Panel.
+
+Section 20
+
+Quorum and conduct of proceedings
+ 
+
+    The Chairman or the Deputy Chairman of the Investment Panel and two other members of the Investment Panel shall form a quorum at all meetings of the Investment Panel.
+
+    [Am. Act A1300/2007]
+
+    (1A) In the absence of the Chairman, the Deputy Chairman shall preside at all meetings of the Investment Panel and, shall exercise all powers of the Chairman in respect of that meeting.
+
+    [Ins. Act A1300/2007]
+    Subject to subsection 18(2), the Investment Panel shall have powers to determine the conduct of its proceedings.
+
+Section 21
+
+The Chairman of the Investment Panel to have casting vote
+
+    If on any question to be determined there is an equality of votes, the Chairman of the Investment Panel shall have the casting vote in addition to his original vote.
+    Where the Chairman is also the chief executive officer and he is appointed to be the Chairman of the Investment Panel, he shall have no vote in his capacity as the chief executive officer.
+
+[Am. Act A958/1996]
+
+Section 22
+
+Disqualification from membership of the Board and the Investment Panel
+
+The following persons shall be disqualified from being appointed as a member of the Board or the Investment Panel or if he is a member of the Board or Investment Panel he shall cease to be such a member:
+
+    a person who is of unsound mind or is otherwise incapable of performing his duties;
+    a person who has been convicted of an offence and sentenced to imprisonment for a term of not less than one year;
+    a person who has been convicted of an offence involving fraud, dishonesty, or moral turpitude; or
+    a bankrupt.
+
+Section 23
+
+Disclosure of interest
+
+    Every member of the Board or the Investment Panel, having directly or indirectly by himself, his spouse or children, any interest in any matter under discussion by the Board, the Investment Panel or any committee of which he is a member, shall disclose to the Board, the Investment Panel or committee, as the case may be, the fact of his interest and the nature thereof as soon as practicable after the relevant fact has come to his knowledge.
+    Any member of the Board, the Investment Panel or committee who fails to disclose his interest as provided under subsection (1) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
+    Every declaration under this section shall be recorded in the minutes of the Board, the Investment Panel or committee, and after any declaration made under subsection (1) the member of the Board, the Investment Panel or committee, as the case may be, shall—
+        not take part nor be present in any deliberation or decision of the Board, the Investment Panel or committee relating to the matter; and
+        be disregarded for the purposes of constituting a quorum of the Board, the Investment Panel or committee for such deliberation or decision.
+    No act or proceedings of the Board, the Investment Panel or committee shall be invalidated on the ground that any member of the Board, the Investment Panel or committee has contravened the provisions of this section.
+
+Section 23A
+
+Establishment of Shariah Advisory Committee
+
+    The Board shall establish a Shariah Advisory Committee which shall be the authority for the ascertainment of Shariah matters for the purposes of advising the Board and the Investment Panel in ensuring that the management of the accounts of the members of the Fund whose elections under section 43A have come into effect complies with Shariah principles, including the contributions, investment and dividend.
+    The Shariah Advisory Committee may determine its own procedures.
+
+[Ins. Act A1504/2016]
+
+Section 23B
+
+Functions of Shariah Advisory Committee
+
+The Shariah Advisory Committee shall have the following functions:
+
+    to ascertain the application of Shariah principles on any matter relating to the accounts of the members of the Fund whose elections under section 43A have come into effect;
+    to advise the Board and the Investment Panel on any matter relating to Shariah and the application of Shariah principles on any matter relating to the accounts of the members of the Fund whose elections under section 43A have come into effect;
+    such other functions as may be prescribed by the Board.
+
+[Ins. Act A1504/2016]
+
+Section 23C
+Appointment of members of Shariah Advisory Committee
+
+    The Board may appoint such number of persons, which shall not be less than three, from amongst persons who are qualified in Shariah, or who have knowledge or experience in Shariah and in banking, finance, law or such other related disciplines, as members of the Shariah Advisory Committee.
+    Members of the Shariah Advisory Committee shall not be entitled to any remuneration but may be paid such honorarium, any travelling and subsistence allowances, as the Board may determine.
+
+[Ins. Act A1504/2016]
+
+Section 23D
+Reference to Shariah Advisory Committee
+
+    The Board and the Investment Panel shall refer to the Shariah Advisory Committee any matter relating to Shariah and any matter which requires the ascertainment of Shariah principles by the Shariah Advisory Committee relating to the accounts of the members of the Fund whose elections under section 43A have come into effect.
+    The advice given by the Shariah Advisory Committee on any matter reffered under subsection (1) shall be binding on the Board and the Investment Panel.
+
+[Ins. Act A1504/2016]
+
+PART III
+
+THE FUND
+Section 24
+
+Establishment of Employees Provident Fund
+
+    For the purpose of this Act there shall be established a fund to be called the "Employees Provident Fund", into which shall be paid—
+        all contributions required to be made under this Act;
+        money earned by carrying out any project, scheme or enterprise financed from the Fund;
+        moneys earned or arising from any property, investments, mortgages, charges or debentures acquired by or vested in the Board; and
+        all other sums or property which may in any manner become payable to or vested in the Board in respect of any matter incidental to its powers and duties.
+    The Fund shall be expended for the purpose of—
+        meeting all payments required to be made under this Act;
+        investment under this Act;
+
+        [Am. Act A914/1995]
+        granting of loans and making of advances to officers and servants of the Board;
+        paying, any expenses lawfully incurred by the Board including survey or legal fees and costs or any other fees and costs under section 14 and, the remuneration of officers and servants appointed and employed by the Board including superannuation allowances, pensions or gratuity;
+
+        [Am. Act A914/1995]
+        paying any other expenses, costs or expenditure properly incurred or accepted by the Board in the execution of its powers and the carrying out of its duties;
+
+        [Am.Act A914/1995]
+        repaying any moneys borrowed under this Act if any, and the interest due thereon; and
+        generally paying any expenses for carrying into effect the provisions of this Act and in connection with the administration of the Fund.
+
+[Am. Act A914/1995]
+
+Section 25
+
+Board shall be trustee of the Fund
+
+The Board shall be the trustee of the Fund.
+
+Section 26
+
+Power of the Board to invest
+
+[Subs. Act A914/1995]
+ 
+
+    The Board may subject to subsection 18 (2), invest moneys belonging to the Fund in the following manner:
+
+     
+        to be deposited in—
+            Bank Negara Malaysia; or
+            a bank or an investment bank duly licensed under the Financial Services Act 2013 [Act 758]; or
+
+             [Subs. Act A1504/2016]
+            an Islamic bank duly licensed under the Islamic Financial Services Act 2013 [Act 759]; or
+
+            [Subs. Act A1504/2016]
+            a development financial institution regulated under the Development Financial Institutions Act 2002 [Act 618];
+
+            [Ins. Act A1504/2016]
+        to be invested in—
+            shares offered pursuant to an initial public offering which have been approved under the Capital Markets and Services Act 2007 [Act 671] or shares listed on a stock exchange which have been approved under the same Act; or
+
+            [Subs. Act A1504/2016]
+            debentures of any public company;
+
+             
+        in bonds or purchasing of mortgage papers, commercial notes, banker's acceptances, money market papers, certificates of deposits, private debt securities, promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 1949 [Act 204] and other negotiable instrument of similar nature;
+
+        in accordance with the provisions of the Trustee Act 1949 [Act 208]:
+
+           Provided however, where the Board invests in or upon titles to immovable property in Malaysia in accordance with paragraph 4(1)(c) of the Trustee Act 1949, such immovable property may or may not yield any income at the time of such investment;
+
+        to provide loans to the Goverment of Malaysia or the State Government; and
+
+        [Am. Act A1504/2016]
+
+        to provide loans to members of the Fund subject to such terms and conditions as may be determined by the Board for the purpose of purchasing or building a house.
+    The Board may with the written approval of the Minister, invest moneys belonging to the Fund in the following manner:
+        to be deposited in any bank or financial institution established by or under any written law;
+        to be invested in any joint venture;
+        by participating in any privatization programme;
+        to provide loans to any company incorporated under the Companies Act 1965 [Act 125] or any corporation established by or under any written law;
+        by investing in any investment outside Malaysia;
+
+        [Am. Act A1300/2007]
+        (ea) by participating in or by carrying out dealings in any derivative instruments; or
+
+        [Am. Act A1300/2007]
+        investing in any other form of investment.
+    For the purpose of this section—
+
+    "debenture" includes debenture stock, bonds, notes and any other securities of a corporation whether constituting a charge on the assets of the corporation or not;
+
+    [Am. Act A1300/2007]
+
+    "derivative instruments" means a financial contract including forward contract, futures contract and option contract;
+
+    [Am. Act A1300/2007]
+
+    "share" means paid-up shares (whether fully paid or not) in the share capital of a company and includes stocks and rights to subscribe for any stocks and shares.
+    The Board may, where a foreign currency is required as an instrument of investment, in exercising the investment which has been approved under this section, make loan of the foreign currency for the purpose of the investment.
+
+[Ins. Act A1300/2007]
+
+Section 26A
+
+Power of the Board to invest in an approved company
+
+[Ins. Act A914/1995; Am. Act A958/1996]
+
+ 
+
+    In addition to the powers of the Board to invest in accordance with section 26, the Board may invest—
+        in loans to an approved company or the buying of shares in an approved company; or
+        in special housing loans to an approved company.
+    No moneys belonging to the Fund shall be invested in accordance with subsection (1) unless—
+        the paid-up ordinary share capital of the approved company is not less than five million Malaysian ringgit;
+        the approved company has paid a dividend at the rate of not less than five per centum upon such ordinary share capital during each of the last three years prior to the time of investment and where the approved company is a company which has acquired the assets and liabilities of another approved company, payment of a dividend by that other company during each of the last three years prior to the time of such acquisition shall be treated as payment by the approved company;
+        in the case of an approved company having as its sole or primary object the promotion of home ownership and, the total amount of the borrowings of the approved company from all sources, excluding the amount of any special housing loan, whether trustee or not, accepted by the approved company on loan and deposit, and including interest due thereon and not repaid by the approved company, does not at any time exceed three-fourth of the amount, excluding prospective interest, for the time being secured to the approved company from its borrowers:
+
+        Provided that the Minister may vary any limitation imposed on the total amount of the borrowings of the approved company in this paragraph;
+
+        [Ins. Act A958/ 1996]
+        a certificate that the provisions of paragraphs (a), (b) and (c) of this subsection were complied with in respect of the last financial year of the approved company, if incorporated in the auditor's report annexed to the approved company's annual accounts required to be prepared under the Companies Act 1965, to which the approved company is subject, shall be conclusive in favour of the Board making such investment; and
+        any agreement as to repayment made between the Board and the approved company shall be immediately determined if—
+            the approved company shall cease to comply with any of the provisions of paragraphs (a), (b) and (c) of this subsection;
+            the approved company shall fail to obtain a certificate in the terms and in the manner stated in paragraph (d) of this subsection; or
+            the Minister may at any time by notification in the Gazette, order that the company shall cease to be an approved company in consequence of his considering that the company has departed from its sole or primary object,
+        and any moneys belonging to the Fund shall be repayable immediately thereupon.
+
+Section 26B
+
+Board to invest in Government Securities
+
+[Ins. Act A914/1995]
+
+ 
+
+    Subject to any variation which the Minister may make under subsection (2), the Board shall invest or re-invest at least fifty per centum of the moneys belonging to the Fund and invested or reinvested during any one year, in securities issued by the Government of Malaysia, provided that the total amount of moneys so invested in such securities at any one time shall not be less than seventy per centum of the Fund's total investments.
+    The Minister may, upon the application of the Board, vary the percentage specified in subsection (1).
+
+    [Subs. Act A1123/2001]
+    For the purpose of this section, securities issued by the Government of Malaysia shall include—
+        loans which are fully guaranteed by the Government of Malaysia;
+        negotiable securities or instruments which are fully guaranteed by the Government of Malaysia including negotiable securities or instruments issued by a corporation fully owned by the Government of Malaysia;
+        Bank Negara Malaysia papers; [Am. Act A958/1996]
+        negotiable securities or instruments which are fully guaranteed by Bank Negara Malaysia including negotiable securities or instruments issued by a corporation which is fully owned by Bank Negara Malaysia;
+
+        [Am. Act A958/1996]
+        any commercial instrument (with elements of negotiability) issued by a State Government or a local authority with a maturity period of at least three years from the date of issue; and
+        any deposit in advance subscription account in Bank Negara Malaysia under subparagraph 26(1)(a)(i).
+         
+
+        [Ins. Act A1123/2001]
+
+ 
+
+Section 26C
+
+Power of the Board to establish a corporation or a company
+
+[Ins. Act A958/1996]
+
+ 
+
+    The Board may, in exercising the investment powers under this Act, from time to time, with the special approval of the Minister-
+        establish a corporation by such name as the Board may think fit;
+        incorporate a company under the Companies Act 1965 by such name as the Board may think fit; or
+        take over any company, to carry out, administer, conduct and manage any project, joint venture, privatization programme, scheme, enterprise or any other matters which have been planned or undertaken by the Board.
+    The Seventh Schedule shall apply to a corporation established under paragraph 1(a) and the Companies Act 1965 shall apply to a company incorporated or taken over under paragraph (1)(b) or (c), respectively.
+
+Section 27
+
+Declaration of dividend
+
+[Subs. Act A1504/2016]
+
+ 
+
+    At or after the end of the financial year, being the 31st December of each year, the Board shall, with the approval of the Minister, declare a dividend on contributions to the Fund in respect of that year—
+        in relation to contributions made by the members of the Fund who have not elected for their accounts to be managed according to Shariah under section 43A or who have made the elections under section 43A but the elections have not come into effect, at any rate according to the actual performance of the investment made by the Board in relation to the accounts which shall not be less than two and one half per centum per annum; and
+        in relation to contributions made by the members of the Fund whose elections under section 43A have come into effect, at any rate according to the actual performance of the investment made by the Board in relation to the accounts.
+    Subject to section 50, the dividend declared under subsection (1) shall be payable on contributions to the Fund according to the accounts of the members of the Fund respectively.
+    Notwithstanding paragraphs (1)(a) and (b), no rate of dividend exceeding two and one half per centum per annum shall be so declared—
+        unless the Board is satisfied that the ability of the Fund to meet all payments required to be paid under this Act is not endangered by the declaration of such rate; and
+        if any sums advanced by the Government of Malaysia under section 28 have not then been repaid.
+
+Section 28
+
+Provision for advancement from the Federal Consolidated Fund
+
+If the Fund is at any time unable to pay any sum which the Fund is required to pay under this Act, the sum required to be so paid shall be charged on and advanced to the Fund from the Federal Consolidated Fund and the Fund shall as soon as practicable repay to the Government of Malaysia the sum so advanced.
+
+Section 29
+
+Audit of the Fund's annual accounts
+
+The annual accounts of the Fund shall be audited in accordance with the provisions of the Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240].
+
+PART IIIA
+
+INVESTMENT BY MEMBER OF THE FUND
+
+Section 29A
+
+Investment by member of the Fund
+
+[Ins. Act A958/1996, Subs. Act A1300/2007]
+
+ 
+
+    Notwithstanding anything contrary to the provisions of this Act, the Board may, subject to any regulations and rules made under this Act—
+        authorize an application made by a member of the Fund for investment in fund management institutions or other institutions approved by the Minister for investment purposes in any investments approved by the Minister; and
+        authorize transfer of any amount standing to the credit of such member of the Fund into fund management institutions or other institutions approved by the Minister subject to any terms and conditions as he thinks appropriate.
+    Where the Board has authorized the transfer of a sum of money standing to the credit of such member under subsection (1)—
+        such amount so authorized shall not be paid dividend as declared by the Board under section 27; and
+        such amount shall be deemed withdrawn from the credit of such member at the Fund from the date such member has attained the age of fifty-five years and such member may deal directly with the fund management institutions or other institutions approved by the Minister in relation to the credit.
+
+PART IV
+
+APPOINTMENT OF OFFICERS AND SERVANTS, THEIR POWERS, FUNCTIONS AND DUTIES
+
+Section 30
+
+[Am. Act A1080/2000]
+
+Appointment of the chief executive officer, officers and servants of the Board
+
+    The Minister shall appoint a fit and proper person, on such terms and conditions as he may determine, as chief executive officer, who may be designated by any name as determined by the Board.
+
+    [Subs. Act A958/1996]
+    Where no appointment of the chief executive officer is made under subsection (1), the Chairman shall exercise the duties of the chief executive officer and shall be known as the Executive Chairman and any remuneration or allowance paid shall be determined by the Minister.
+
+    [Am. Act A914/1995]
+    The Board shall appoint such number of other officers or servants, as it considers necessary for the efficient conduct of the business of the Board, on such terms and conditions as may be determined by the Board, who may be designated by any name as determined by the Board.
+
+    [Am. Act A914/1995, Subs. Act A958/1996]
+    The chief executive officer shall, subject to the direction of the Board on matters of policy, be charged with the day to day administration and management of the affairs of the Board and the administrative control of its officers and servants.
+    Subject to sections 31 and 33, it shall be the duty of the Board to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer and exercise disciplinary control over its officers and servants.
+    The Board may delegate to any member of the Board, officer or to any committee, comprising of such members or officers or both such members and officers, appointed by it, any of its functions under subsection (5) and that member, officer or committee shall exercise those functions under the direction and control of the Board.
+
+Section 31
+
+[Am. Act A1080/2000]
+
+Establishment of the Disciplinary Committee
+
+[Subs. Act A1300/2007]
+
+ 
+
+    A Disciplinary Committee of the Board responsible for matters relating to the disciplines of the officers and servants of the Board is established.
+
+    [Am. Act 914/1995, Am. Act A958/1996]
+    The Disciplinary Committee shall consist of five members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee.
+
+    [Am. Act 914/1995, Am. Act A958/1996]
+    The chairman of the Disciplinary Committee and two members of the Committee shall form a quorum at all meetings of the Disciplinary Committee.
+
+    [Am. Act A958/1996, Am. Act A1080/2000]
+    The Disciplinary Committee shall have powers to determine the conduct of its proceedings.
+
+    [Am. Act A958/1996, Am. Act A1080/2000]
+    In the exercise of its disciplinary functions, the Disciplinary Committee shall have the power to take such disciplinary action and impose such disciplinary punishment as provided by any disciplinary rules made under section 73.
+
+    [Am. Act A1080/2000]
+    The Disciplinary Committee may, subject to subsection (7), delegate any of its disciplinary functions, powers or duties other than the disciplinary punishment of dismissal or reduction in rank to any officer or servant of the Board, or to any committee of officers and servants of the Board, in respect of any particular officer or servant of the Board or in respect of any class or category of officers or servants of the Board, and the officer and servant or committee delegated with such functions, powers or duties shall carry out, exercise or discharge them under the direction and control of the Disciplinary Committee which shall have the power to review, rescind or vary any decision or finding of such officer or servant or such committee.
+    No delegation shall be made under subsection (6) so as to enable an officer or servant of the Board to exercise any disciplinary authority or to be a member of a committee which may exercise any disciplinary authority over an officer or servant who is superior to him in rank.
+
+[Am. Act A914/1995]
+
+Section 31A
+
+Establishment of the Disciplinary Appeal Committee
+
+[Ins. Act A1300/2007]
+
+    A Disciplinary Appeal Committee of the Board responsible for matters relating to appeals against the decisions made by the Disciplinary Committee under section 31 is established.
+    The Disciplinary Appeal Committee shall consist of seven members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee.
+    The chairman of the Disciplinary Appeal Committee and four other members of the Disciplinary Appeal Committee shall form a quorum at all meetings of the Disciplinary Appeal Committee.
+    The Disciplinary Appeal Committee shall have powers to determine the conduct of its proceedings.
+    Any officer or servant of the Board who is aggrieved by the decision of the Disciplinary Committee or of any person or committee delegated with powers, functions or duties under subsection 31(5) may appeal against such decision to the the Disciplinary Appeal Committee within thirty days from the date of the service of the decision to the last known address of the officer or servant.
+    The decision of the Disciplinary Appeal Committee shall be final.
+
+Section 32
+
+Imposition of Surcharge
+
+    If the Board is satisfied that any person who is or was in the employment of the Board—
+        is or was responsible for any improper payment of moneys from the Fund or for any payment of such moneys which is not duly vouched;
+        is or was responsible for any deficiency in, or for the destruction of, any moneys, stamps, securities, stores or other property of the Board;
+        being or having been an accounting officer, fails or has failed to keep proper accounts or records; or
+        has failed to make any payment, or is or was responsible for any delay in the payment, of moneys from the Fund to any person to whom such payment is due under any contract, agreement or arrangement entered into between that person and the Board,
+    and if a satisfactory explanation is not furnished to the Board within a period specified by the Board, with regard to the failure to collect, improper payment, payment not duly vouched, deficiency or destruction, or failure to keep proper accounts or records, or failure to make payment, or delay in making payment, the Board may surcharge against the said person a sum not exceeding the amount of any such amount not collected, such payment, deficiency, or loss or the value of the property destroyed, as the case may be; and with regard to the failure to keep proper accounts or records, or the failure to make payment, or the delay in making payment, the Board may surcharge against the said person such sum as the Board may think fit.
+    The Board shall cause the chief executive officer to be notified of any surcharge made under subsection (1) and the chief executive officer shall thereupon notify the person surcharged.
+    The Board may at any time withdraw any surcharge in respect of which a satisfactory explanation has been received or if it otherwise appears that no surcharge should have been made, and the Board shall at once cause the chief executive officer to be notified of such withdrawal.
+    The amount of any surcharge imposed under subsection (1) and not withdrawn under subsection (3) shall be a debt due to the Board from the person against whom the surcharge is imposed and may be sued for and recovered in any court at the suit of the Board and may also be recovered by deduction-
+        from the salary of the person surcharged if the Board so directs; or
+        from the pension of the person surcharged if the Board so directs,
+    by equal monthly instalments not exceeding one-fourth of the total monthly salary or pension, as the case may be, of the person.
+
+Section 33
+
+Establishment of a Promotion Committee in respect of officers and servants of the Board
+
+    A Promotion Committee of the Board in respect of officers and servants of the Board other than the chief executive officer, which shall consist of five members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee, is established.
+     
+
+    [Am.Act A914/1995, Subs. Act A958/1996, Subs. Act A1300/2007]
+     
+    (1A) The chairman of the Promotion Committee and two other members of the Promotion Committee shall form a quorum at all meetings of the Promotion Committee.
+
+    [Am. Act A914/1995, Subs. Act A958/1996]
+     
+    (1B) If on any question to be determined there is an equality of votes, the chairman of the Promotion Committee shall have the casting vote in addition to his original vote.
+
+    [Am. Act A914/1995, Subs. Act A958/1996]
+     
+    (1C) The Promotion Committee shall have powers to determine the conduct of its proceedings.
+
+    [Am. Act A914/1995]
+    The Promotion Committee shall have such powers, functions and duties relating to the promotion of the officers and servants of the Board.
+    The Promotion Committee may delegate any of its powers, functions or duties to any officer or servant of the Board, or to any committee of officers or servants of the Board, in respect of any particular officer or servant of the Board or in respect of any class or category of officers or servants of the Board, and the officer or servant or committee delegated with such powers, functions or duties, shall carry out, exercise or discharge them under the direction and control of the Promotion Committee which shall have the power to review, rescind or vary any decision or finding of such officer or servant or such committee.
+    (Deleted by Act A1300).
+    (Deleted by Act A1300).
+
+Section 33A
+
+[Ins. Act A1300/2007]
+
+Establishment of the Promotion Appeal Committee in respect of officers and servants of the Board
+
+    A Promotion Appeal Committee of the Board in respect of officers and servants of the Board responsible for matters relating to appeals against the decisions made by the Promotion Committee under section 33 is established.
+    The Promotion Appeal Committee shall consist of seven members of the Board to be appointed by the Board, one of whom shall be appointed chairman of the Committee.
+    The chairman of the Promotion Appeal Committee and four other members of the Promotion Appeal Committee shall form a quorum at all meetings of the Promotion Appeal Committee.
+    The Promotion Appeal Committee shall have powers to determine the conduct of its proceedings.
+    Any officer or servant of the Board who is aggrieved by the decision of the Promotion Committee or any person or committee delegated with powers, functions or duties under subsection 33(3) may appeal against such decision to the Promotion Appeal Committee within thirty days from the date of the service of the decision to the last known address of the officer or servant.
+    The decision of the Promotion Appeal Committee shall be final.
+
+Section 34
+
+Appointment of Inspectors, their powers, functions and duties
+
+    The Board may appoint such number of Inspectors as it may consider necessary for the purposes of this Act from any officer and servant appointed under subsection 30(3) and such appointment shall be published in the Gazette.
+
+    [Am. Act A914/1995, Am. Act A1080/2000]
+    Subject to subsection (3), an Inspector appointed under subsection (1) shall have all the powers, functions and duties conferred under this Act.
+    An Inspector shall be subject to the direction and control of the chief executive officer, or of such other officer or servant of the Board as may be authorized by the chief executive officer to act on behalf of him, and of any other Inspectors superior to him in rank, and shall exercise his powers, perform his functions, and discharge his duties referred to in subsection (2) in compliance with such directions, instructions, conditions, restrictions or limitations as the chief executive officer, or an officer or servant of the Board authorized to act on behalf of him, or an Inspector superior in rank, may specify orally or in writing, either generally, or in any particular case or circumstances.
+    The chief executive officer shall have all the powers of an Inspector.
+     
+
+    [Am. Act A914/1995, Am. Act A1080/2000]
+     
+    The Board may, in writing, vests in any officer of the Board who is not appointed as an Inspector under subsection (1) all or any of the powers, functions and duties of an Inspector.
+
+[Subs. Act A1080/2000]
+
+Section 35
+
+Powers of entry, examination and search
+
+Subject to any regulations made under section 71, an Inspector or an officer vested with the powers of an Inspector may at any reasonable time—
+
+    enter any premises or place where persons are believed to be engaged as employees;
+    make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act or the regulations or rules made thereunder are being or have been complied with in any such premises or place;
+    examine either alone or in the presence of any other person with respect to any matters under this Act on which he may reasonably require information every person who he has reason to believe can give information respecting the subject matter of the inquiry, and require every such person to be examined and for the purposes of such examination may summon any such person to attend at the time and place specified in such summons; and
+    exercise such other powers as may be necessary for carrying this Act into effect.
+
+[Am. Act A914/1995]
+
+Section 36
+
+Obstruction to exercise of powers by an Inspector
+
+    No person shall—
+        refuse any Inspector exercising his powers under section 35, access to any premises or part thereof;
+        assault, obstruct, hinder or delay such Inspector in effecting any entrance which he is entitled to effect;
+        fail to comply with any lawful demands of an Inspector in the execution of his powers, functions and duties under section 35;
+        refuse to give to an Inspector any information which may reasonably be required of him;
+        fail to produce to, or conceal or attempt to conceal from, an Inspector, any property, book, other document, or article in relation to which the Inspector has reasonable grounds for suspecting that an offence has been or is being committed under this Act; or
+        furnish to an Inspector as true, information which he knows or has reason to believe to be false.
+    (1A) For the purpose of this section, an Inspector shall include any officer who is vested with the powers of an Inspector.
+
+    [Ins. Act A914/1995]
+    Any person who contravenes the provisions of subsection (1) shall be guilty of an offence.
+
+Section 37
+
+Power to examine persons
+
+    The Inspector or an officer vested with the powers of an Inspector, making any investigations under section 35 may examine orally any person whom he believes to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined.
+    The person so examined shall be legally bound to answer all questions relating to such case put to him by the examining officer:
+
+    Provided that such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture.
+    A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions.
+    An officer examining a person under subsection (1) shall first inform that person of subsections (2) and (3).
+    A statement made by any person under this section shall, whenever possible, be taken down in writing and signed by the person making it or affixed with his thumb print, as the case may be, after it has been read to him in the language in which he made it and after he has been given an opportunity to make any corrections he may wish.
+
+    [Am. Act A914/1995]
+    (Deleted by Act A914).
+
+Section 37A
+
+[Ins. Act A914/1995]
+ 
+
+Power of the Board to assess contributions based on information available
+
+    An Inspector or an officer vested with the powers of an Inspector may, assess any contributions which is due by any employer based on any information available if the employer—
+        fails to keep or maintain any statement, particulars, register book or any record pertaining to each employee as required to be performed by him under this Act; or
+        fails or refuse to submit any statement, particulars, register book or record pertaining to each employee as required to be submitted by him under this Act.
+    The assessment made under subsection (1) shall be sufficient proof of the Board's claim for the recovery of any contributions under section 65.
+
+Section 38
+
+Powers of chief executive officer to ask for information and application for search warrant
+
+    For the purpose of obtaining full information for ascertaining whether any person is liable to pay contributions under this Act, the chief executive officer may by notice in writing require any person—
+        to furnish the chief executive officer within a time specified in the notice not being less than thirty days from the date of such notice any information or particulars specified in the notice;
+        to attend personally before the chief executive officer or any officer appointed by him and produce for examination all books, accounts, records and other documents which the chief executive officer or officer deems necessary; or
+        to furnish the information or particulars in accordance with paragraph (a) and also to attend in accordance with paragraph (b).
+
+    Any person who fails to comply with the provisions of subsection (1) shall be guilty of an offence.
+
+    (2A) Where a person is found guilty of an offence under subsection (2), the Court before which the person is found guilty shall order such person to comply with the notice of the chief executive officer under subsection (1) within twenty-one days from the date of the order of the Court.
+
+    [Ins. Act A1080/2000]
+     
+    Whenever it appears to any magistrate, upon written information on oath, and after any enquiry he may think necessary, that there are reasonable grounds for suspecting that there are on particular premises any book, account, record or other document the production of which has been required pursuant to subsection (1) and which has not been produced in compliance with that requirement, such magistrate may issue a warrant authorizing the chief executive officer or any person named therein with or without assistance—
+        to search the premises and to break open and search any cupboard, drawer, chest, trunk, box, package or other receptacle, whether a fixture or not, in the premises; and
+        to take possession of, or secure against interference, any book, account, record or other document that appear to be book, account, record or other document the production of which was so required.
+
+Section 39
+
+[Subs Act A1611/2019]
+
+Preventing person from leaving Malaysia without paying contributions
+
+    (a) Where the chief executive officer has reason to believe that any person is about or is likely to leave Malaysia without paying any outstanding and due contributions under this Act, the chief executive officer may issue to the Director General of Immigration a certificate containing particulars of the person and the outstanding and due contributions with a request that the person be prevented from leaving Malaysia, unless he pays the outstanding and due contributions, or furnishes security to the satisfaction of the chief executive officer for its payment.
+     
+
+    [Subs. Act A1300/2007, Subs. Act A1611/2019]
+
+    (b) Subject to any order issued or made under any written law relating to immigration, the Director General of Immigration upon receiving a request under paragraph (a) in respect of any person shall take or cause to be taken all such measures (including the use of reasonable force and the seizure, removal or retention of any certificate of identity and any passport, exit permit or other travel document relating to that person) as may be necessary to give effect to it.
+
+    [Subs. Act A1611/2019]
+
+    (c) The chief executive officer shall cause notice of the issue of a certificate under paragraph (a) to be served personally or by registered post (addressed to his last known address) on the person to whom the certificate relates:
+
+       Provided that the non-receipt of the notice by that person shall not invalidate anything done under this section.
+
+    (d) Where a person in respect of whom a certificate has been issued under paragraph (a) produces a written statement signed on or after the date of the issue of the certificate by the chief executive officer or an authorized officer to the effect that the outstanding and due contributions to the Fund specified in the certificate have been paid or that security has been furnished for their payment, the statement or the payment, as the case may be, shall be sufficient authority for allowing that person to leave Malaysia
+     
+
+    [Subs. Act A1611/2019]
+     
+    No legal proceedings shall be instituted or maintained against the Board, its officers and servants, the Government of Malaysia or any public officer in respect of anything lawfully done under this section.
+
+    [Am. Act A1611/2019]
+    Any person who, knowing that a certificate has been issued in respect of him under subsection (1), leaves Malaysia without paying all the outstanding and due contributions specified in the certificate or furnishing security to the satisfaction of the chief executive officer for its payment shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand ringgit or to both.
+
+    [Ins. Act A1611/2019]
+    For the purpose of this section, “contributions” includes any dividend or late payment charges due on any contributions. 
+
+    [Ins. Act A1611/2019]
+
+PART V
+
+CONTRIBUTIONS TO THE EMPLOYEES PROVIDENT FUND
+
+Section 40
+
+(Deleted by Act A1300)​​​.
+
+Section 41
+
+Duty of employer to register with the Board
+
+    Every employer shall, unless he is already registered with the Board, before the end of the first week in the first month in which he is paying wages in respect of which he is required to pay contributions under this Act, register with the Board in the manner as may be prescribed by the Board.
+    Any employer who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
+    Where any person ceases to be an employer, within the meaning of this Act, he shall, within the period as prescribed by the Board, notify the Board of the same in the manner as may be prescribed by the Board.
+
+    [Am. Act A1300/2007]
+    Any person who contravenes subsection (3) shall be guilty of an offence.
+
+Section 42
+
+Duty of employer to prepare and furnish statement of wages
+
+    Every employer shall prepare and furnish statement of wages to each and every employee and the statement of wages shall contain such information as may be prescribed by the rules.
+    Every employer shall prepare and keep one or more registers containing such information as may be prescribed by the rules and such register shall be kept for such period that every particular recorded therein shall be available for inspection for not less than six years after the recording thereof.
+
+Section 43
+
+Rate of contributions
+
+    Subject to section 52, every employee and every employer of a person who is an employee within the meaning of this Act shall be liable to pay monthly contributions on the amount of wages for the month at the rate respectively set out in the Third Schedule.
+
+    [Ins. Act A914/1995]
+    (1A) Subject to section 52, the monthly contribution of every employee and employer who are subject to the minimum wages order made under the National Wages Consultative Council Act 2011 [Act 732] shall not be less than the monthly contributions based on the amount of the minimum wages for the month as determined under the minimum wages order at the rate respectively set out in the Third Schedule.
+
+    [Ins. Act A1504/2016]
+    Any person being an employer who fails, within such period as may be prescribed by the Minister, to pay to the Fund any contributions which he is liable under this Act to pay in respect of or on behalf of any employee in respect of any month shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
+
+    [Subs. Act A1300/2007]
+    Without prejudice to the provisions of subsections (1) and (1A), an employer and an employee or either of them may, at any time elect to pay monthly contributions at a rate which exceeds the rate respectively set out in the Third Schedule by one ringgit or a multiple of one ringgit subject to any maximum limit of monthly contributions set out in the Third Schedule.
+
+    [Am. Act A1504/2016, Ins. Act A1300/2007]
+    Notice of such election shall be given to the Board in such manner as may be prescribed by the Board and where any such notice has been given, this Act shall, in respect of any employer or employee who has elected as aforesaid, apply as if the rate of contribution which such employer or employee has elected to pay, were the rate respectively set out in the Third Schedule:
+
+    Provided that an election cannot be made to take effect retrospectively.
+
+    [Am. Act A1080/2000]
+    An employer and an employee or either of them may, at any time, revoke his election made under subsection (4).
+     
+    Notice of such revocation shall be given to the Board in such manner as may be prescribed by the Board and where any such notice has been given, this Act shall, in respect of any employer or employee who has revoked as aforesaid, apply as if such employer or employee has not elected to pay the excess contribution:
+
+    Provided that a revocation cannot be made to take effect retrospectively.
+
+    [Am. Act A1080/2000]
+    In the event of the death of an employee, no contributions shall be due under this section by or on behalf of such employee in respect of the month during which such death occurs:
+
+    Provided that where any such contribution has been received it shall be paid into the Fund in accordance with section 50.
+
+    [Ins. Act A914/1995]
+    Notwithstanding subsection (1)—
+        a self-employed person;
+        a pensionable employee;
+        any person not being an employer or an employee, whether or not within the meaning of this Act; or
+
+        [Ins. Act A1080/2000, Ins. Act. A1611/2019]
+        any person not being an employer and not being an employee whether or not within the meaning of this Act, and both have given their consent to contribute,
+
+        [Subs. Act. A1611/2019]
+    may, by giving notice in such manner as may be prescribed by the Board, elect to pay monthly contributions in accordance with the rate as prescribed by the Board.
+
+    [Pin. Act A1080/2000]
+    The Board may, subject to any terms and conditions as prescribed by the Board, return—
+        the exceeded amount of contributions paid under subsection (3) or (8); or
+        any contribution which is paid by any persons who has no liability to contribute.
+
+[Ins. Act A1300/2007]
+
+Section 43A
+
+Election for account of member of the Fund to be managed according to Shariah
+
+    A member of the Fund may elect for all amount standing to the credit of his account to be managed according to Shariah subject to any terms and conditions as may be prescribed by the Board.
+    The election under subsection (1) shall be made in such manner as may be prescribed by the Board and the election shall take effect from the date as determined by the Board.
+    The Board shall notify the effective date of the election determined under subsection (2) to the member of the Fund not less than seven days before the effective date.
+    The member of the Fund may, before the effective date of the election determined under subsection (2), revoke his election in such manner as may be prescribed by the Board.
+    After the election made under subsection (1) is effective, the Board shall segregate the account of such member of the Fund from other accounts of the members of the Fund—
+        who have not made the election under subsection (1); and
+        who have made the election under subsection (1) but the election has not come into effect,
+
+        for the purposes of managing the account of the member of the Fund according to Shariah.
+
+[Ins. Act A1504/2016]
+
+Section 44
+
+Remittance of funds in connection with retirement
+
+[Subs. Act A1123/2001]
+
+ 
+
+    In addition to section 43, an employer or any other person may at any time, with the consent of the employee, remit to the Board—
+        any funds being retirement benefits of the employee; or
+        any funds from any other retirement scheme or plan relating to the employee,
+    in any manner as may be prescribed by the Board.
+    An employee or any other person may at any time remit to the Board any funds from any retirement scheme or plan relating to the employee or person in any manner as may be prescribed by the Board.
+    Upon the Board receiving the funds as remitted under subsection (1) or (2), the Board shall cause the funds to be paid into the Fund in accordance with section 50.
+
+Section 44A
+
+[Ins. Act A1300/2007]
+
+Adding up credit into the account of a member of the Fund
+
+In addition to sections 43 and 44, any person prescribed by the Board may add up credit into the account of a member of the Fund by remitting a sum of money to the Board, subject to any terms and conditions as prescribed by the Board, and any maximum limit of monthly contributions set out in the Third Schedule.
+
+Section 45
+
+Payment of contributions
+
+    Except where otherwise provided in this Act, the employer shall, in the first instance, be liable to pay both the contributions payable by himself and also, on behalf of and to the exclusion of the employee, the contributions payable by that employee; and for the purposes of this Act contributions paid by an employer on behalf of an employee shall be deemed to be contributions by the employee.
+    Contributions payable by the employer for himself and on behalf of the employee under subsection (1) shall be paid in respect of the first and subsequent months' wages.
+    Notwithstanding section 49, where an employer fails to pay any contributions due within such period as prescribed by the Minister, the employer shall, in addition to such contributions, be liable to pay dividend on such contributions at the rate and in accordance with any manner and calculation determined by the Board.
+
+    [Ins. Act 914/1995, Subs. Act A958/1996, Subs. Act A1504/2016,
+    Subs. Act A1300/2007]
+    Any employer who contravenes subsection (3) shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
+
+[Ins. Act A914/1995]
+
+Section 46
+
+Joint and several liability of directors, etc.
+
+    Where any contributions remaining unpaid by a company, a firm or an association of persons, then, notwithstanding anything to the contrary in this Act or any other written law, the directors of such company including any persons who were directors of such company during such period in which contributions were liable to be paid, or the partners of such firm, including any persons who were partners of such firm during such period in which contributions were liable to be paid, or the office-bearers of such association of persons, including any persons who were office-bearers of such association during such period in which contributions were liable to be paid, as the case may be, shall together with the company, firm or association of persons liable to pay the said contributions, be jointly and severally liable for the contributions due and payable to the Fund.
+    For the purpose of this section—
+
+    [Ins. Act A914/1995; Subs. Act A1504/2016]
+     
+
+    "contribution" shall be deemed to include any dividend and late payment charges due on any contributions;
+
+    "partner"—
+        means any partner referred to in the Partnership Act 1961 [Act 135]; or
+        has the meaning assigned to it under the Labuan Limited Partnerships and Limited Liability Partnerships Act 2010 [Act 707] and the Limited Liability Partnerships Act 2012 [Act 743].
+
+Section 47
+
+Employer's contribution irrecoverable from employee
+
+    Notwithstanding any contract to the contrary, the employer shall not be entitled to deduct or otherwise recover from the wages or remuneration of the employee, the employer's contribution, from the employee.
+
+    [Am. Act A914/1995]
+    If an employer deducts or attempts to deduct from the wages or remuneration of any employee the whole or any part of the employer's contribution, he shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six years or to a fine not exceeding twenty thousand ringgit or to both.
+
+Section 48
+
+Recovery by employer of employee's contribution
+
+    Subject to this section, the employer shall be entitled to recover from the employee, in accordance with this section, the amount of any contribution payable on behalf of the employee.
+    The amount of any contribution payable by the employer on behalf of the employee shall, notwithstanding any written law or any contract to the contrary, be so recoverable by means of deductions from the wages of the employee due from the employer to the employee and not otherwise.
+    Any employer who deducts the employee's contributions from the wages of an employee and fails to pay such deducted sum or any part thereof to the Fund shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six years or to a fine not exceeding twenty thousand ringgit or to both.
+    No deduction of any contribution shall be made as provided by subsection (2)—
+        except at the time wages are paid to the employee; and
+        other than of the contribution in respect of the wages which are then being paid:
+
+
+        Provided that, subject to such conditions as may be prescribed by the Board, where an employer has, by error not occasioned by that employer's negligence, omitted to deduct any contribution or part of any contribution payable by him on behalf of the employee, then, such contribution or part thereof may be deducted from the wages payable by such employer to the employee not later than six months from the date of the payment of the wages in respect of which the contribution or part thereof was omitted to be deducted.
+
+        [Am. Act A914/1995]
+    Any employer who contravenes subsection (4) shall be guilty of an offence.
+    (Deleted by Act A914).
+
+Section 49
+
+[Am. Act A1504/2016]
+
+Late payment charges on contribution in arrears
+
+    Where the amount of the monthly contributions or part of any monthly contributions which an employer is liable to pay under section 45 is not paid within such period as prescribed by the Minister, the employer shall be liable, in addition to the dividend to be paid under subsection 45(3), to pay late payment charges to be credited to the Fund on such amount at such rate and in accordance with any manner and calculation determined by the Board.
+
+    [Am.Act A1504/2016, Subs. Act A1300/2007]
+    The Board may in any case in which it thinks fit remit in whole or part the payment of any late payment charges due under this section.
+
+[Am. Act A1504/2016]
+
+Section 50
+
+Contributions to be paid into the Fund
+
+    All sums collected, recovered or transferred under this Act shall be paid into the Fund in such manner as the Board shall direct.
+
+    [Am. Act A1080/2000]
+    The Board shall cause to be credited to each member's account—
+        the amount of any contributions paid in his respect by the employer on his own behalf and on behalf of such member of the Fund;
+
+        [Am. Act A914/1995]
+        dividend on any amount standing to the credit of such member at the rate declared under section 27 in such manner as the Board may prescribe; and
+
+        [Am. Act A958/1996]
+        any other moneys paid on behalf of such member under this Act.
+
+        [Am. Act A958/1996]
+    (2A) For the purpose of crediting any amount of money into the account of a member of the Fund under subsection (2), the Minister may prescribe any number of accounts in respect of a member of the Fund and prescribe the percentage to be credited into each account.
+
+    [Ins. Act A1080/2000]
+    (2B) Notwithstanding paragraphs 2(a) and 2(b)—
+
+    [Am. Act A1504/2016]
+        no amount of contributions or money may be credited into the account of a member of the Fund after such member has attained the age of seventy-five years; and
+        dividend shall be credited on any amount standing to the credit of a member of the Fund until all sums of money standing to the credit of such member are transferred to the Registrar of Unclaimed Money under section 51A.
+
+    [Ins. Act A1300/2007]
+
+    (2C) Notwithstanding subsection (2), where the Board receives partial payment of any assessment for outstanding contributions from the employer, the Board may determine the manner in which the outstanding contributions by the employer is to be credited into each account of the member of the Fund.
+
+    [Ins. Act A1300/2007]
+    If any employer fails to pay any contribution which he has deducted from the wages of an employee, the Board shall, on being satisfied that such deduction has been made, credit the employee with the amount of such contribution together with any dividend which would have been credited in respect thereof if such contribution had been paid by the employer within the prescribed period and shall charge the amount so credited to the general revenues of the Fund:
+    Provided that nothing in this section shall prejudice the right of the Board to recover the amount of such contribution and dividend from the employer.
+    Any amount recovered under subsection (3) shall be disbursed in the following manner:
+        firstly to be credited to the general revenues of the Fund such sum that has been paid out from the general revenues of the Fund under subsection (3); and
+        the balance thereof shall be credited to the respective employees' accounts rateably.
+    (Deleted by Act A958).
+    The provisions of this section shall apply to any amount standing to the credit of an employee in an approved fund upon the transfer of such amount to the Fund.
+
+Section 51
+
+Contributions and deposits not to be assigned or attached
+
+    Notwithstanding anything to the contrary contained in any other written law—
+
+    [Ins. Act A1504/2016]
+        no sum deducted from the wages of a member of the Fund under section 48;
+        no amount payable by the employer as his contribution; and
+        no amount standing to the credit of a member of the Fund,
+    shall be assignable, transferable, liable to be attached, sequestered, levied upon, for, or in respect of, any debt or claim whatsoever, nor shall the Official Assignee be entitled to or have any claim on any such sum or amount.
+
+    [Am. Act A914/1995]
+    Notwithstanding subsection (1), the amount standing to the credit of a member of the Fund under paragraph (1)(c) may be forfeited if the amount standing to the credit of such member is subject to an order of forfeiture by a court under the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 [Act 613].
+
+    [Am. Act A1504/2016]
+
+Section 51A
+
+Transfer to the Registrar of Unclaimed Money
+
+[Ins. Act A1300/2007]
+
+ 
+
+    Notwithstanding section 51, the Board may transfer to the Registrar of Unclaimed Money all sums of money standing to the credit of a member of the Fund which have not been claimed when such member has attained the age of one hundred years or any age limit as may be prescribed by the Board, whichever is higher.
+
+    [Sub. Act A1504/2016]
+    Any application or claim relating to the credit of such member of the Fund after such transfer under subsection (1) has been effected shall be forwarded to the Registrar of Unclaimed Money according to the Unclaimed Moneys Act 1965 [Act 370].
+
+Section 52
+
+Approved funds
+
+    No contributions shall become payable to the Fund by the employees in respect of whom there exist an approved fund, or by the employer or employers of such employees in respect of such employees.
+    Where the Minister amends the First Schedule under section 74 by deleting any paragraph thereof, any employer or group of employers who before the date on which the order comes into force has established a provident fund or other scheme for the benefit of all or of a group of his or their employees of the description specified in that paragraph shall, within such period as the Board may in its discretion allow, furnish the Board with such particulars of such provident fund or other scheme as the Board may prescribe or in any particular case require, and if after examining such particulars the Board is satisfied that such provident fund or other scheme as amended if necessary in such manner as the Board may require provides for an employee benefits not less advantageous to him than the benefits which are provided for an employee by the Fund, the Board may, subject to such conditions as it may impose, declare such provident fund or other scheme to be an approved fund.
+    Where an employee for any reason whatsoever changes employment to an employment in respect of which an approved fund exists, contributions in respect of the employee shall cease to be payable to the Fund and the amount standing to the credit of such employee shall remain in the Fund.
+    Where an employee, who is in an employment in respect of which an approved fund has been established, is precluded by the rules of such approved fund from contributing thereto during a specified period of probation, any sum standing to such employee's credit in the Fund which represents contributions to the Fund both by the employer and the employee since the date on which such employment commenced, together with any dividend thereon, shall remain in the Fund.
+    Where—
+        an employer who is one of a group of employers by whom an approved fund has been established ceases to participate in such approved fund; or
+        an employee—
+            leaves an employment in respect of which he was a contributor to an approved fund; or
+            ceases to contribute to an approved fund, in circumstances other than those set out in paragraph 54(1)(a), (b) or (c),
+    the amount standing to each employee's or to such employees' credit in such approved fund that represents contributions to such approved fund both by the employer and the employee since 1 July 1952 together with any dividend thereon, shall, notwithstanding anything to the contrary contained in any other written law, be transferred to the Fund, and the Board shall cause to be credited to each such employee or such employees such amount in such manner as the Board shall direct and such amount shall be transferred within one month of the employer ceasing to participate in such approved fund or of the employee leaving the employment or ceasing to contribute, as the case may be, or within such further period as the Board may in any particular case allow:
+
+    Provided that where an employee—
+        transfers from employment in Malaysia under an employer by whom an approved fund has been established to employment outside Malaysia under the same employer; or
+        transfers from employment under an employer who is one of a group of employers by whom an approved fund has been established to employment under another employer who is one of the same group,
+
+        and in either case, where such transfer is permitted by the rules of such approved fund to continue to contribute thereto on the same terms and conditions as if such transfer had not taken place, such employee, so long as he continues so to contribute, shall not for the purposes of subparagraph (b)(i) of this subsection be deemed to have left an employment in respect of which he was a contributor to an approved fund:
+
+        Provided further that where in accordance with the rules of such approved fund the amount standing to the credit of any employee consists in whole or in part of a policy of life assurance, such policy shall not be transferred to the Fund, but shall be dealt with in accordance with such rules.
+         
+    (a) Where an approved fund is wound up, the amount standing to each employee's or to such employees' credit in such approved fund that represents contributions to such approved fund both by the employer and the employee since 1 July 1952 together with any dividend thereon, shall notwithstanding anything to the contrary contained in any other written law, be transferred to the Fund, and the Board shall cause to be credited to each employee or such employees such amount in such manner as the Board shall direct.
+
+    (b) The Board may, if it considers desirable in the interest of employees so to do, accept in their entirety the assets and liabilities of such approved fund at such date as is agreed and where the assets of such approved fund shall not be sufficient to meet its liabilities, the amount to be credited to such employee or employees under paragraph (a) shall be reduced in such proportion as the Board may determine:
+
+    Provided that where in accordance with the rules of such approved fund the amount standing to the credit of any employee consists in whole or in part of a policy of life assurance such policy shall not be transferred to the Fund, but shall be dealt with in accordance with such rules.
+     
+    An employer who has established an approved fund shall—
+        furnish the Board with such accounts as the Board may require in respect of such approved fund duly certified by a person who has been approved as a company auditor under section 8 of the Companies Act 1965;
+        inform the Board of any proposed amendment to the rules of such approved fund and shall not effect any such amendment except with the written approval of the Board; and
+        furnish the Board with such particulars of those employees contributing to such approved fund in such manner as may be prescribed by the Board.
+    The Board may, if not satisfied with the management of any approved fund, revoke any declaration made under this section, and upon such revocation, subsection (5) section shall apply as they would apply if such fund were wound up.
+    An employer in respect of any approved fund shall be subject to offences and penalties in respect of any deductions or contributions made under the rules approved fund as are provided by this Act in respect of deductions and contributions relating to the Fund.
+    Notwithstanding anything to the contrary in the rules of an approved fund, the amount standing to an employee's credit therein together with any dividend thereon may be withdrawn in any of the circumstances set out in paragraph 54(1)(a), (b) or (c).
+    Notwithstanding anything to the contrary in the rules of an approved fund, any employer may on application by an employee who has attained the age of fifty years authorize not more than
+    one withdrawal from such approved fund a sum representing one-third of the amount standing to the credit of such employee and an employee in respect of whom an authority for withdrawal has been given under this subsection shall notwithstanding such withdrawal continue to be treated as a contributor to such approved fund.
+    When an employee withdraws under subsection (10) any amount standing to his credit in an approved fund, he shall not thereafter be treated as an employee, notwithstanding that, but for this subsection, he would be an employee, for the purpose of this Act.
+    Any employer who fails to comply with any requirement or direction of the Board under this section, or with any provision of subsection (7), shall be guilty of an offence.
+    Where in the circumstances mentioned in subsections (5) and (8), amount of contributions paid since 1 July 1952, is transferred to the Fund, the employer and employee concerned may, by mutual agreement, elect to transfer to the Fund all such amount standing to the credit of the employee in an approved fund as represents the contributions paid to such fund before 1 July 1952. Notice of such election shall be given to the Board in such manner as may be prescribed by the Board, and if the Board approves such transfer, the employee shall be credited with the amount so transferred to the Fund.
+    The provisions of section 51 shall apply in respect of an approved fund in like manner as it applies in respect of the Fund.
+    For the purpose of this section the expression "an employer who has established an approved fund" includes an employer for the benefit of whose employees an approved fund has been
+    established.
+    Nothing in the provisions of subsections (7) and (13) shall apply to an approved fund expressly established by or under any written law.
+    Any expenses incurred by the Board in enforcing the obligations of approved funds under this Act shall be reimbursed to the Board from the funds of such funds on of membership of such funds.
+
+Section 53
+
+Winding up of approved fund
+
+The approved fund of a statutory or local authority under the new scheme shall be wound up on as the Minister may, by notification in the Gazette, appoint in each particular case, and all assets and liabilities of the approved fund shall be transferred to the Fund and dealt under this Act:
+ 
+
+Provided that where there is a pension scheme of a statutory or local authority within the meaning of "approved fund" under section 2 of this Act then the winding up of such scheme shall be dealt with under section 30 of the Statutory and Local Authorities Sperannuation Fund Act 1977 [Act 185] notwithstanding section 52.
+
+PART VA
+TRANSFER OF CREDIT IN ACCORDANCE WITH THE DIVISION OF MATRIMONIAL ASSETS ORDER
+
+[Ins. Act A1300/2007]
+
+Section 53A
+
+Transfer of credit of a member of the Fund in accordance with the division of matrimonial assets order
+
+    Notwithstanding section 51, when an order is issued by a court of the sums of money standing to the credit of a member of the Fund is matrimonial asset, the Board may, after being served with the sealed order, transfer the sum of money as ordered by the court from the account of a member of the Fund into the account of the receiver named in the order subject to any terms and conditions as prescribed by the Board.
+    The Board shall postpone such transfer under subsection (1) if an order, appeal or any process of court proceedings which prevents the execution of the subsection (1) is served on the Board.
+    Notwithstanding subsections (1) and (2), the transfer of credit from the account of a member of the Fund into the account of the receiver named in the order is subject to the amount standing to the credit of such member of the Fund at the date of the transfer is made.
+    For the purpose of subsection (3),"the date of the transfer" means the date on which the sums of money is debited from the account of a member of the Fund.
+
+Section 53B
+
+Withdrawal of the transferred amount
+
+[Ins. Am A1300/2007]
+ 
+
+    Notwithstanding any relevant provisions of this Act, the amount which has been transferred into the account of the receiver named in the order under subsection 53A(1) shall not be withdrawn or transferred except in accordance with subsection (2).
+    The Board may authorize the withdrawal of all amounts so transferred subject to any terms and conditions as may be prescribed by the Board if the Board is satisfied that the receiver—
+        has died;
+        has attained the age of fifty-five years;
+        is physically or mentally incapacitated from engaging in an employment; or
+        is not a Malaysian citizen and is about to leave Malaysia.
+    Where such authority for withdrawal under paragraph 2(a) or 2(c) has been granted, no additional amount under section 58 may be paid.
+
+PART VB
+
+ELECTION BY MEMBER OF THE FUND TO TRANSFER HIS CONTRIBUTIONS
+
+[Ins. Act A1611/2019]
+
+Section 53C
+
+Transfer of employee’s contributions
+
+The contributions of a member of the Fund affected by the transfer into the account of another member of the Fund under this Part shall be the employee’s contributions of the first mentioned member of the Fund.
+
+Section 53D
+
+Election by member of the Fund to transfer his contributions 
+
+[Ins. Act A1611/2019]
+ 
+
+    Notwithstanding section 51 and subject to the conditions and criteria as specified in the Eighth Schedule, a member of the Fund may elect to transfer his contributions at the rate specified in the Eighth Schedule into the account of another member of the Fund who is or are his lawful wife or wives.
+    A member of the Fund who elects to transfer his contributions shall make an application to the Board by submitting such particulars or documents, and in such manner, as determined by the Board. 
+    After receiving an application under subsection (2), the Board shall transfer the contributions of the member of the Fund who elects to transfer his contributions into the account of another member of the Fund elected by him on a monthly basis or in accordance with such other period as determined by the Board subject to the availability of contributions in the account of the member of the Fund who makes the election.
+
+Section 53E
+
+Cessation of transfer of contributions 
+
+[Ins. Act A1611/2019]
+ 
+
+    Upon the occurrence of any circumstances specified in the Eighth Schedule in relation to a transfer of contributions, a member of the Fund who has elected to transfer his contributions under section 53D may apply to the Board to cease the transfer. 
+    An application for cessation of transfer of contributions under subsection (1) shall be made to the Board by submitting such particulars or documents, and in such manner, as determined by the Board.
+    After receiving an application under subsection (2), the Board shall cease the transfer of the contributions. 
+    Any amount that has been transferred into the account of the member of the Fund who receives the contributions transferred before the date of cessation of transfer of the contributions shall be retained in the account of such member of the Fund.
+
+Section 53F
+
+Re-transfer of contributions 
+
+[Ins. Act A1611/2019]
+
+ 
+Where contributions under section 53D have been erroneously transferred, the Board may re-transfer the contributions, including any dividend, into the account of the member of the Fund who has elected to transfer the contributions, subject to the amount standing to the credit of the member of the Fund who has erroneously received the contributions transferred.
+
+PART VI
+WITHDRAWAL OF CONTRIBUTIONS
+
+Section 54
+
+Withdrawal from the Fund
+
+[Am. Act A958/1996; Subs. Act A1080/2000]]
+
+    (1) The Board may authorize the withdrawal of all sums of money standing to the credit of a member of the Fund upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that—
+        the member of the Fund has died;
+        (Deleted by Act A1300);
+        the member of the Fund is physically or mentally incapacitated from engaging in an employment; or
+
+        [Am. Act A1123/2001]
+        (Deleted by Act A1123);
+        the member of the Fund is not a Malaysian citizen and is about to leave Malaysia.
+
+        [Am. Act A1300/2007]
+    (1A) Subject to any regulations and rules made under this Act, for the purpose of paragraph 54(1)(a), any member of the Fund may make nomination for the purpose of payment of credit after the death of the member.
+
+    [Ins. Act A1300/2007]
+    (Deleted by Act A1300).
+    (Deleted by Act A1300).
+    A member of the Fund who, before 1 August 1995, has made a withdrawal of all sums of money standing to his credit in the Fund on the grounds that he is about to leave Malaysia with no intention of returning to Malaysia or with the intention of residing in the Republic of Singapore shall be treated as an employee under this Act if he has given to the Board and his employer a notice in such manner as may be prescribed by the Board of his intention to contribute to the Fund.
+
+    [Subs. Am A914/1995; Subs. Act A1300/2007]
+
+    (4A) (Deleted by Act A1300).
+    (Deleted by Act A1300).
+    Notwithstanding subsection (1) and subject to subsection 59(2), the Board may authorize an application of a member of the Fund to withdraw part of the amount standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that—
+
+    [Am. Act A958/1996; Am. Act A1300/2007]
+        the member of the Fund has attained the age of fifty years;
+        the member of the Fund has purchased or built a house;
+        (ba) the member of the Fund has sold the house that was purchased or built using a withdrawal under paragraph (b) and subsequently has purchased or built another house;
+
+        [Ins. Act A1123/2001]
+        the member of the Fund has purchased or built a house and has taken a loan under paragraph 26(1)(f) for the purchase or construction of the house;
+        the member of the Fund has purchased or built a house and has taken a loan and the house has been charged as security for the loan;
+        (da) the member of the Fund has sold the house charged as security for the loan under paragraph (d) and has subsequently—
+
+        [Ins. Act A1123/2001]
+            purchased or built another house and has taken another loan and the new house has been charged as security for that other loan; or
+
+            [Ins. Act A1123/2001; Subs. Act A372/2016]
+            purchased another house from Perbadanan Perumahan Rakyat 1Malaysia and has taken another loan and the new house has been charged as security for that other loan;
+
+            [Ins. Act A1123/2001; Subs. P.U.(A) 372/2016]
+        (db) the member of the fund has purchased a house from Perbadanan Perumahan Rakyat 1Malaysia and has taken a loan and the house has been charged as security for the loan;
+
+        [Ins. P.U. (A) 372/2016]
+        the member of the Fund has not taken a loan to purchase or build a house but the spouse of the member of the Fund has purchased or built a house and has taken a loan and the house has been charged as security for the loan;
+
+        [Am. Act A1300/2007]
+        the member of the Fund or any other person approved by the Board requires medical financing;
+        the member of the Fund requires financing for higher learning for himself, his child, spouse or parent;
+
+        [Subs. Act A1123/2001; Am. Act A1190/2003; Am. P.U. (A) 177/2021]
+
+        (ga) the muslim member of the Fund has received the letter of offer from Lembaga Tabung Haji to perform the haj and requires financing for the cost of performing the haj;
+
+        [Ins. Act A498/2012]
+        (Deleted by Act A1190);
+
+        [Ins. Act A1123/2001]​​​
+        the member of the Fund has a credit which exceeds one million ringgit in his account;
+
+        [Ins. Act A1300/2007; Am. Act A135/2020; Am. P.U.(A) 151/2022]
+        the member of the Fund takes an insurance policy or a takaful certificate, as may be determined by the Board from an insurance or takaful company approved by the Minister subject to any terms and conditions as he thinks appropriate, for himself, or himself and any other person approved by the Board;
+
+        [Ins. A1300/2007; Am. P.U.(A) 135/2020; Am. P.U.(A)253/2021; Am. P.U.(A) 151/2022]
+
+        (ja) the member of the Fund requires money for any purpose;
+
+        [Ins. P.U.(A) 119/2024]
+        (Deleted by P.U.(A)151/2022);
+        (Deleted by P.U.(A)151/2022);
+        (Deleted by P.U.(A)151/2022); and
+        (Deleted by P.U.(A)151/2022).
+    Notwithstanding subsection 54(6), the Minister may, if he thinks it expedient and after consulting the Board, by order published in the Gazette, add to, vary or modify the purposes for which a member of the Fund may make a withdrawal under subsection (6).
+
+    [Ins. Act A1123/2001]
+
+Section 54A
+
+Payment of dividend in such manner as determined by the Board
+
+[Ins. Act A958/1996; Subs. Act A1300/2007]
+
+Where any amount—
+
+    is withdrawn from the Fund under subsection 53B(2), section 54, 54C, 55A or 58B, the Board shall pay dividend on such amount so withdrawn or credit such dividend on the amount so withdrawn into the account of a member of the Fund in such manner as determined by the Board from time to time; and
+    is paid from the Fund under section 56, the Board shall pay dividend on such amount so withdrawn in such manner as determined by the Board from time to time.
+
+Section 54B
+
+Date of withdrawal
+
+[Ins. Act A958/1996]
+
+For the purpose of withdrawal under this Act, the date of withdrawal shall be—
+
+    where payment is made by a warrant, the date on which the warrant for such withdrawal is issued; and
+    where payment is made in a manner other than by a warrant, the date on which such amount of withdrawal is debited from the account of such member of the Fund.
+
+Section 54C
+
+Withdrawal by pensionable employees
+
+[Ins. Act A1123/2001]
+
+ 
+
+    Subject to section 56, the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board.
+    Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A of the Pensions Act 1980 [Act 227] or sections 10, 11, 12 and 13 of the Statutory and Local Authorities Pensions Act 1980 [Act 239].
+    (2A) A member of the Fund who has made a withdrawal under subsection or (2) shall not make any other withdrawal under the same subsection.
+
+    [Ins. Act A1504/2016]
+    (Deleted by Act A1504).
+
+    [Subs. Act A1300/2007]
+    For the purpose of subsection (2), "part of the sums of money standing to his credit" means the amount of money standing to the credit of the member of the Fund up to the date when the written notification of the member's retirement received by the Board under section 56 comes into effect.
+
+Section 55
+
+(Deleted by Act A1300).
+
+Section 55A
+
+Withdrawal from the Fund for a member of the Fund who has attained the age of fifty-five years
+
+[Ins. Act A1300/2007]
+
+ 
+
+    The Board may authorize a member of the Fund who has attained the age of fifty-five years to withdraw all sums or part of the amount standing to his credit, subject to any terms and conditions as may be prescribed by the Board.
+    Subsection 54(6) shall not be applicable to a member of the Fund who has attained the age of fifty-five years.
+
+    [Am. Act A1611/2019]
+
+Section 55B
+
+Contribution to and withdrawal from the Fund for a member of the Fund who has attained the age of sixty years
+
+ 
+
+[Ins. Act A1504/2016]
+
+ 
+
+    Notwithstanding section 55A, any contribution that has been credited into the account of a member of the Fund after the member has attained the age of fifty-five years may only be withdrawn when the member attains the age of sixty years or such other age as may be prescribed by the Minister by order published in the Gazette, whichever is higher.
+    The Board may authorize a member of the Fund who has attained the age of sixty years or such other age as may be prescribed in subsection (1), whichever is higher, to withdraw all sums or part of the amount standing to his credit subject to any terms and conditions as may be prescribed by the Board.
+    This section shall not apply to a member of the Fund who has attained the age of fifty-years who falls within the category of the member of the Fund under paragraph 54(1)(c) or (e) or paragraph 70C(1)(b) or (c).
+
+    [Ins. Act A1611/2019]
+
+Section 56
+
+Release of employer's contributions
+
+ 
+
+[Am. Act A1080/2000]
+
+ 
+
+    The Board, after receiving a notification in writing from an employer of a pensionable employee stating that the pensionable employee has died in service or is about to retire on the ground of attaining the retirement age applicable to the pensionable employee or on any other ground and requesting for the return of the equivalent of the employer's contributions remitted to the Fund in respect of the pensionable employee by the Government of Malaysia or of a State or any statutory or local authority or from all such employers of the pensionable employee, together with any dividend credited thereon, may pay to the Pensions Trust Fund established under section 3 of the Pensions Trust Fund Act 1991 [Act 454], such amount together with dividend credited thereon and thereupon the amount standing to the credit of the pensionable employee in the Fund shall be the reduced amount as from that date.
+    Notwithstanding subsection (1), when the Board has authorized a member of the Fund to make a withdrawal under subsections 54C(1) and (2), the Board may pay an amount of money equivalent to the contributions remitted to the Fund by the member's employer in respect of that member to the Pensions Trust Fund established under section 3 of the Pensions Trust Fund Act 1991.
+
+[Am. Act A1123/2001]
+
+Section 57
+
+Payment for withdrawal
+
+Unless otherwise provided to the contrary, payment in respect of any withdrawal authorized by the Board under this Act shall be in the manner as may be determined by the Board from time to time.
+
+Section 57A
+
+Limitation for a member of the Fund to dispute the accuracy of amount withdrawn or the validity of a withdrawal made
+
+ 
+
+[Ins. Act A1300/2007]
+
+ 
+
+    Any dispute by any person or member of the Fund pertaining to the accuracy of the amount of withdrawal allowed by the Board under this Act, shall be made within twelve months from the date of withdrawal.
+    For the purpose of subsection (1), "the date of withdrawal" shall be the date of withdrawal provided under section 54B.
+    Any dispute by any person or member of the Fund pertaining to any withdrawal allowed by the Board under this Act, shall be made within six years from the date the notification of such withdrawal is served on such person or member of the Fund.
+    The dispute under subsections (1) and (3) shall be made by a written notification to the Board and where there is no notification made within such period, such payment or withdrawal shall be deemed to be correct and in order.
+
+Section 58
+
+Payment of additional amount
+
+    Where authority for withdrawal under paragraph 54(1)(a) is granted, the Board has a discretion to pay an additional amount as set out in the Fifth Schedule subject to any terms and conditions prescribed by the Board.
+
+     
+
+    [Am. Act A1080/2000; Subs. Act A1300/2007]
+    (1A) (Deleted by Act A1300).​​​​​
+
+     
+    Where authority for withdrawal under paragraph 54(1)(c) has been granted, the Board has a discretion to pay an additional amount as set out in the Sixth Schedule subject to any terms and conditions prescribed by the Board.​​​​​
+
+     
+
+    [Am. Act A1080/2000; Subs. Act A1300/2007]
+    A member of the Fund shall not be paid the additional amount under subsection (2) on any subsequent withdrawal under paragraph 54(1)(c).
+
+[Ins. Act A1300/2007]
+
+Section 58A
+
+Amount withdrawn not to be utilised for other purpose
+
+ 
+
+[Ins. Act A1080/2000]
+
+ 
+
+    An amount withdrawn by any member of the Fund under this Act shall be utilized solely for the purpose for which the withdrawal was authorized.
+    Where all of the amount withdrawn under this Act or any part of the amount is not utilized for the purpose for which such withdrawal was authorized, the member of the Fund shall return all the amount or the part which is not utilized to the Board within six months from the date of withdrawal.
+    For the purpose of subsection (2), "date of withdrawal" means the date of withdrawal as provided in section 54B.
+    Any member of the Fund who contravenes subsections (1) and (2) shall be guilty of an offence.
+
+PART VIA
+
+TAKING UP OF INSURANCE POLICY BY MEMBER OF THE FUND
+
+ 
+
+Section 58B
+
+Taking up of insurance policy
+
+ 
+
+[Ins. Act A1080/2000;]
+
+ 
+
+    The Board may authorize an application of a member of the Fund to utilize any amount standing to the credit of such member of the Fund for the purpose of taking up an insurance policy as may be determined by the Board from an insurance company approved by the Minister subject to any terms and conditions as the Board thinks appropriate.
+    Where the Board has authorized the application of a member of the Fund under subsection (1), no dividend as may be declared by the Board under section 27 shall be paid on the amount transferred to the insurance company.
+    This section shall not apply to a member of the Fund who is a pensionable employee and an employee who is not a Malaysian citizen.
+
+[Am. Act A1123/2001]
+
+PART VII
+
+OFFENCES AND PROCEEDINGS
+
+Section 59
+
+Incorrect declaration, failure to furnish return or furnishing false documents
+
+ 
+
+[Subs. Act A1300/2007]
+
+ 
+
+    Any person or member of the Fund who—
+        makes, orally or in writing, or signs any declaration, return, certificate or other document required by this Act or any regulations or rules thereunder which is untrue or incorrect in any particulars; or
+        fails or refuses to furnish or produce any declaration, return, certificate or other document required by this Act or any regulations or rules thereunder to be furnished or produced; or
+        uses or furnishes any documents, required under this Act or any regulations or rules thereunder, which are false,
+
+        commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding ten thousand ringgit or to both.
+    (1A) If any person or member of the Fund has made an application for withdrawal for a particular purpose and charged with an offence under subsection (1) in relation to that application, the Board may not authorize another application for withdrawal by the person or member of the Fund for the same purpose until the charge is disposed of in due course of law.
+
+    [Ins. Act A1504/2016]
+
+    Any person or member of the Fund who is convicted of an offence under subsection (1) in relation to withdrawal made under this Act shall, within six months from the conviction date, return all the amount withdrawn.
+    Where any person or member of the Fund returns all the amount withdrawn within the period prescribed under subsection (2), such person or member of the Fund is allowed to make further withdrawal for the same purpose after two years from the date the amount is returned.
+    The period of two years referred to in subsection (3) is not applicable for the purpose of any withdrawal under subsection 54(1) or section 55A.
+    Where any person or member of the Fund fails to comply with subsection (2), such person or member of the Fund is prohibited from making any further withdrawal for the same purpose in respect of which he has been convicted of an offence under subsection (1).
+    Subsection (5) is not applicable for the purpose of any withdrawal under subsection 54(1) or section 55A.
+
+Section 59A
+
+Court order
+
+ 
+
+[Ins. Act A958/1996]
+
+ 
+
+Where any person is found guilty of an offence under paragraph 59(1)(b), the court before which such person is found guilty shall order such person to furnish or produce any declaration, return, certificate or other document required by this Act or any regulations or rules thereunder to be furnished or produced.
+
+Section 60
+
+General penalty
+
+Any person who contravenes any provision of this Act or any regulations or rules made thereunder shall be guilty of an offence and if no special penalty is expressly provided in this Act or the regulations or rules made thereunder shall, on conviction, be liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand ringgit or to both.
+
+Section 61
+
+Attempts, preparations, abetments and conspiracies punishable as offences
+
+Any person who—
+
+    attempts to commit any offence under this Act;
+    does any act preparatory to or in furtherance of the commission of any offence under this Act; or
+    abets or is engaged in a criminal conspiracy to commit (as those terms are defined in the Penal Code [Act 574]) any offence under this Act, whether or not the offence is committed in consequence thereof,
+
+shall be guilty of such offence and shall be liable to the penalty provided for such offence.
+
+Section 62
+
+One trial for any number of offences
+
+Notwithstanding the provisions of any written law to the contrary, an employer may be charged with and tried at one trial for any number of offences under subsection 43(2) and such offences shall, for the purpose of the law for the time being in force relating to criminal procedure, be deemed to form the same transaction.
+
+Section 63
+
+Court order
+
+ 
+
+[Subs. Act A914/1995]
+
+ 
+
+    Notwithstanding the provision of any other written law, where an employer is found guilty of an offence under subsection 43(2) or 48(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund any amount of contributions, together with any dividend credited thereon, due and payable to the Board and certified by an officer authorized by the Board to be due from such employer, prior to the date of such finding of guilt.
+
+     
+
+    [Am. Act A1080/2000]
+    (1A) Where an employer is found guilty of an offence under subsection 47(2), the court before which the employer is found guilty shall order such employer to pay to the employee through the Fund any amount of the employee's wages which has been deducted for paying the employer's share together with any dividend payable and certified by an officer authorized by the Board to be due by the employer, prior to the date of such finding of guilt.
+
+     
+
+    [Ins. Act A1300/2007]
+    Where an employer is found guilty of an offence under subsection 45(3), the Court before which the employer is found guilty shall order such employer to pay to the Fund any amount of dividend thereon due and payable to the Board and certified by an officer authorized by the Board to be due from such employer.
+    A court order issued under subsection (1), (1A) or (2) or both shall be paid by the employer in a single payment at the date the order was issued except if the Court is satisfied that the employer has no capability in terms of financial and on special reasons the offence was committed, the Court may order the arrears of contributions to be paid in not more than six monthly instalments from the date of the order.
+
+     
+
+    [Am. Act A1300/2007]
+    Where an employer fails to comply with any order made under subsection (1A) or (3), the Court shall, on the application by the Board, issue a warrant to levy the employer's property for the whole amount of the arrears in the following manner:
+
+     
+
+    [Sub. Act. A1080/2000; Am. Act A1300/2007]
+        by way of distress and sale of the employer's property in accordance with the same procedure of execution under the Subordinate Courts Rules 1980 [P.U. (A) 328/1980] and this execution shall apply mutatis mutandis notwithstanding the amount in the order for the arrears of contribution or dividend or both; or
+
+         
+
+        [Sub. Act. A1080/2000; Am. Act A1300/2007]
+        in the same manner as a fine as provided under section 283 of the Criminal Procedure Code [Act 593].
+
+[Sub. Act A1080/2000]
+
+Section 64
+
+Certificate of authorized officer of the Board to be evidence
+
+ 
+
+[Sub. Act A1300/2007]
+
+ 
+
+In any legal proceedings, a certificate in relation to a claim on contributions payable and duly certified by an authorized officer of the Board shall be prima facie evidence of such certificate having been made and of the truth of the contents thereof.
+
+Section 65
+
+Civil proceedings to recover contributions
+
+    Notwithstanding the provisions of any other written law all contributions payable under this Act may, without prejudice to any other remedy, be recoverable by the Board summarily as a civil debt.
+
+     
+
+     
+
+    [Am. Act A914/1995]
+    Proceedings for the summary recovery as civil debts of contributions may be instituted by any officer authorized in that behalf by special or general directions of the Chairman and any such officer may conduct such proceedings.
+    In this section the word "contribution" shall be deemed to include any dividend and late payment charges due on any contributions.
+
+[Am. Act A1504/2016]
+
+Section 66
+
+Protection of contributions in execution proceeding or sale under security
+
+    If, at any time before the date of the commencement of a winding up in the case of a company or before the making of a receiving order in the case of a debtor in bankruptcy—
+        an attachment has been issued against the property of an employer in execution of a decree against him and any such property has been seized or sold or otherwise realized in pursuance of such execution; or
+        the property of an employer has been sold, on the application of a secured creditor,
+    then the proceeds of the sale or other realization of such property shall not be distributed to any person entitled thereto until the court ordering the sale or other realization, has made provision for the payment of any amounts due in respect of contributions payable by the employer under this Act.
+    In this section the word "contribution" shall be deemed to include any dividend and late payment charges due on any contributions.
+
+[Am. Act A914/1995; Am. Act A1504/2016]
+
+Section 67
+
+Conduct of civil proceedings
+
+Notwithstanding the provisions of any written law, but without prejudice to section 65, in any civil proceedings by or against the Board—
+
+    any person holding the appointment of a Federal Counsel and authorized by the Attorney General for the purpose; or
+    any legal officer of the Board authorized in that behalf by the Chairman,
+
+may, on behalf of the Board, institute, appear in and conduct such proceedings and may make and do all appearances, acts and applications in respect of such proceedings.
+
+Section 68
+
+(Deleted by Act A1080).
+
+Section 69
+
+Offences by body corporate
+
+Where an offence under this Act or any regulations or rules made thereunder has been committed by a body corporate, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the body corporate, firm, society or other body of persons or was purporting to act in such capacity shall, as well as such body corporate, firm, society or other body of persons, be deemed to be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+
+Section 69A
+
+Public Authorities Protection Act 1948
+
+The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Board, a member of the Board, a member of the Investment Panel, a member of a committee established by the Board, and any officer and servant of the Board in respect of any act, neglect or default done or committed by it or him, or any omission by it or him, in good faith in such capacity.
+[Ins. Act A1504/2016]
+
+Section 70
+
+Members of the Board, Investment Panel and officers deemed as public servants
+Every member of the Board, the Investment Panel, officer and servant of the Board shall be deemed to be a public servant within the meaning of the Penal Code.
+
+PART VIIA
+
+EMPLOYEE WHO IS NOT A MALAYSIAN CITIZEN
+
+Section 70A
+
+Application
+
+This Part shall apply to an employee who is not a Malaysian citizen:
+
+    whose country of domicile is outside Malaysia; and
+    who enters and remains temporarily under the authority of any pass issued under the provisions of any written law relating to immigration;
+
+    [Ins. Act A1080/2000; Am. Act A1190/2003; Am. Act A1760/2025]
+
+Section 70B
+
+(Deleted by Act A1190).
+
+Section 70C
+
+Withdrawal from the Fund
+
+    The Board may authorize the withdrawal of all amount standing to the credit of an employee who is not a Malaysian citizen upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that—
+
+    [Am. Act A1760/2025]
+        the employee has died;
+
+        [Am. Act A1760/2025]
+        the employee is physically or mentally incapacitated from engaging in an employment;
+
+        [Am. Act A1504/2016; Am. Act A1760/2025]
+        the employee is about to leave Malaysia and has no intention of returning to Malaysia; or
+
+        [Am. Act A1504/2016; Am. Act A1760/2025]
+        the employee has attained the age of fifty-five years.
+
+        [Ins. Act A1080/2000; Am. Act A1504/2016; Am. Act A1760/2025]
+    (Deleted by Act 1760/2025).
+    Subject to subsections 59(1A) and (3), the Board may authorize an application by an employee who is not a Malaysian citizen to withdraw part of the amount standing to his credit for the purposes of withdrawal under subsection 54(6) upon any terms and conditions as prescribed by the Board.
+
+    [Ins. Act A1504/2016; Am. Act A1760/2025]
+
+Section 70D
+
+Nomination
+
+An employe who is not a Malaysian citizen is not authorized to make any nomination under this Act.
+
+[Ins. Act A1080/2000; Am. Act 1760/2025]
+
+Section 70E
+
+Other provisions continue to apply
+
+In addition to and not in derogation of the provisions under this Part, all other provisions under this Act except for sections 29A, 43(8), 44A, 53A, 53B, 54 (other than subsection (6)), 58 and 58B shall apply to an employee who is not a Malaysian citizen.
+
+[Am. Act 1123/2001, Subs. Act A1300/2007; Am. Act A1504/2016; Am. Act 1760/2025]
+
+Section 70F
+
+Credit return
+
+Notwithstanding section 70C, the Board may, in such manner as the Board may prescribe, return to an employee who is not a Malaysian citizen and who was liable to contribute during the period which commenced on 1 August 1998 and ended on 1 August 2001, all the amount standing to the credit of such employee.
+
+[Ins. Act A1190/2003; Am. Act 1760/2025]
+
+Section 70G
+
+Cessation of liability to contribute
+
+    The liability to contribute of an employee who is not a Malaysian citizen and his employer shall cease on the last two months—
+        before the expiry of such employee's work permit; or
+         
+        before the expiry of any extension of such employee's work permit.
+    For the purpose of this section—
+
+    "work permit" means permit issued under the provisions of any written law relating to immigration.
+
+[Ins. Act A1300/2007]
+
+Section 70H
+
+Cessation of dividend payments and transfer to Registrar of Unclaimed Money
+
+Notwithstanding subsection 50(2B) and section 51, no dividend shall be credited into the account of an employee who is not a Malaysian citizen if no contribution has been credited into his account after a period of three years from the date of the last contribution was credited, and the Board may transfer all sums of money standing to his account to the Registrar of Unclaimed Money after the expiration of such period.
+[Ins. Act A1504/2016; Am. Act 1760/2025]
+
+PART VIII
+
+POWER TO MAKE REGULATIONS AND RULES
+
+Section 71
+
+Powers of Minister to make regulations
+
+The Minister may, on the recommendation of the Board, make regulations—
+ 
+
+    to provide for the manner of payment and collection of contributions and any matters incidental thereto;
+     
+    to provide for the nomination by a member of the Fund of the persons to whom any amount standing to his credit in the Fund at the time of his death is to be paid at his death, for the manner in which such nomination may be revoked and for the circumstances in which it is to be treated as having ceased to be operative and for payment of such amount to the nominee so nominated;
+     
+    to provide for the payment of the sum standing to the credit of a member of the Fund on his death where there is no nomination by the member of the person to whom such sum is to be paid on his death;
+     
+    to provide for the manner of payment of the additional amount in the case of death of a member or upon withdrawal under paragraph 54(1)(c);
+     
+    to provide that any amount not exceeding two hundred thousand ringgit, or such other amount as may be determined by the Minister, from time to time, by notification in the Gazette, standing to the credit of a deceased member in the Fund may be paid out by the Board without production of any evidence that any estate duty due on the estate of the deceased member has been paid;
+     
+    to provide for the destruction of records and documents but such regulations shall require prior consultation with the National Archives before such destruction;
+     
+    (Deleted by Act A1504);
+     
+    to prescribe fees which shall be paid to the Board in respect of investment under Part IIIA and charges for the purpose of carrying out the provisions of this Act;
+    [Ins. Act A958/1996]
+     
+    to prescribe fees to be imposed on fund management institutions or other approved institutions under Part IIIA;
+    [Ins. Act A958/1996; Am. Act A1300/2007]
+     
+    to prescribe for anything which relates to investment under Part IIIA including matters in respect of the appointment, management, administration, duties, terms and conditions of fund management institutions or other approved institutions;​​​
+    [Ins. Act A958/1996; Am. Act A1300/2007]
+
+    (ja) to prescribe any matter relating to the taking up of an insurance policy under Part VIA, including the appointment, management, administration, duties, terms and conditions of the insurance companies;
+    [Ins. Act A1080/2000]
+     
+    to prescribe anything which under this Act may be prescribed by the Minister;
+    [Am. Act A958/1996; Am. Act A1300/2007]
+
+    (ka) to prescribe any charges or fees which shall be paid to the Board for the purpose of carrying out the provisions of this Act;
+    [Ins. Act A1300/2007]
+
+    (kb) to provide for prohibition of the usage of name and emblem of the Fund; and
+    [Ins. Act A1300/2007]
+    for carrying out any of the provisions of this Act.
+
+[Am. Act A958/1996]
+
+Section 72
+
+Powers of Minister to require other person to contribute and declare any payment or remuneration as wages
+
+Notwithstanding anything in this Act or any other written law, the Minister may by notification in the Gazette—
+
+    require any person who derives income from any trade, business or profession, or from any other source as he may prescribe, to contribute to the Fund;
+     
+    declare any type of payment or remuneration paid or payable by any employer to his employee under a contract of service or apprenticeship, as wages, if the Minister is satisfied that, having regard to the nature or purpose of such payment or remuneration or any other relevant fact, it ought in the circumstances to be treated as wages for the purposes of this Act; or
+     
+    declare any person or class of persons employed, engaged or contracted with to carry out work in any occupation in any agricultural or industrial undertaking, constructional work, trade, business or place of work as an employee or employees and the person who employs, involves or contracts with each of the person or class of persons above-mentioned, shall be deemed to be an employer and such employer and employee shall be deemed to have made a contract of service with each other and the Minister may determine any payment received by the person above-mentioned to be wages for the purpose of this Act,
+
+
+and thereafter this Act shall apply to such person, employer or employee, as the case may be, subject to any modification as the Minister may prescribe.
+
+[Ins. Act A914/1995]
+
+Section 73
+
+Powers of the Board to make rules
+
+The Board may, in addition to the other duties imposed and powers conferred upon it under this Act, make rules—
+
+    to provide for the payment of all contributions under this Act or any part thereof, omitted to be paid;
+
+    (aa) to prescribe any matter relating to the taking up of an insurance policy under Part VIA, including the procedures on the taking up of an insurance policy;
+    [Ins. Act A1080/2000]
+    to provide for the keeping of books, accounts or records by employers;
+     
+    to prescribe the returns to be made by employers, and the forms and registers to be used, in carrying out any of the provisions of this Act;
+     
+    to prescribe the procedure to be followed when contributions are deposited by the employer in the Fund;
+
+    (da) to provide for any matter relating to the election by the members of the Fund for their accounts to be managed according to Shariah under section 43A and the management of such accounts;
+
+    [Ins. Act A1504/2016]
+    to provide, in cases where an employee is employed concurrently by two or more employers, the extent of the obligation of such employers as to payment of contributions under this Act;
+     
+    to provide for the return of contributions, or any part of such contributions, paid in error;
+
+    [Am. Act A1504/2016]
+    to prescribe the procedure to be followed for the purpose of nomination and revocation of nomination, and the particulars to be furnished;
+
+    [Am. Act A1080/2000]
+    to prescribe the procedure relating to withdrawal from the Fund;
+     
+    to provide for the appointment of medical boards for the purpose of section 54(1)(c) and for such other purposes as may be prescribed;
+     
+    to prescribe the evidence to be produced and the person, officer or authority to whom such evidence is to be produced for the purposes of section 54;
+     
+    to provide for the disposal of amounts which are unclaimed, unpaid or otherwise remain in the Fund;
+     
+    to prescribe the procedure to be followed for the disposal of matters relating to employer's and employee's account;
+     
+    (i) to make such disciplinary rules as it deems necessary or expedient to provide for the discipline of the officers and servants of the Board including temporary and contract officers of the Board;
+
+    (ii) the disciplinary rules made by the Board under this Act may include provisions for the interdiction with reduction in salary or in other remuneration, or provisions for the suspension without salary or other remuneration, of an officer or servant of the Board during the pendency of disciplinary proceedings;
+
+    (iii) the disciplinary rules made under this Act shall create such disciplinary offences and provide for such disciplinary punishments as the Board may deem appropriate, and the punishments so provided may extend to dismissal or reduction in rank
+
+    (iv) the disciplinary rules made under this Act may, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made in certain circumstances by the person against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary authority on the disciplinary charge laid against such person;
+     
+    to prescribe for anything which relates to investment under Part IIIA including the procedures for investment;
+
+    [Ins. Act A958/1996]
+
+    (na) to prescribe for any matter relating to the transfer of credit under Part VA including the withdrawal for the transferred credit;
+
+    [Ins. Act A1300/2007]
+     
+    (Deleted by Act A1504).
+     
+    to prescribe anything which may be prescribed by the Board under this Act.
+
+[Subs. Act A1080/2000]
+
+Section 74
+
+Powers of Minister to amend the Schedules
+
+The Minister may, by order notified in the Gazette, amend, add to or vary any of the Schedules to this Act.
+
+PART IX
+
+REPEAL AND TRANSITIONAL PROVISIONS
+
+Section 75
+
+Repeal of the Employees Provident Fund Act 1951
+
+On the appointed day—
+
+    the Employees Provident Fund Act 1951 [Act 272] (in this Part referred to as "the repealed Act") shall cease to have effect;
+     
+    the Employees Provident Fund Board (in this Part referred to as "the EPF Board") being a body corporate established under the repealed Act shall likewise cease to exist:
+
+Provided that the members of the EPF Board who immediately before the appointed day were appointed as members of the EPF Board shall on that day be members of the Board and shall be subject to all the provisions of this Act relating to such members and shall be deemed to have been appointed under this Act.
+
+Section 76
+
+Continuance of laws, etc.
+
+    Subject to the provisions of this Act, all written laws, orders, regulations and rules affecting or for the protection of the EPF Board and in force immediately before the appointed day shall, until amended or revoked by the authority having power so to do, continue in force on and after the appointed day and be construed as if this Act has not been passed:
+
+    Provided that any references therein to the EPF Board unless the context otherwise requires shall be construed as references to the Board, and expressions importing such a reference shall be construed accordingly.
+     
+    All orders, directions, appointments, notifications, regulations and rules made under the provisions of the repealed Act and in force immediately before the appointed day shall, insofar as they are not inconsistent with the provisions of this Act, be deemed to have been made under this Act and shall continue in force until other provisions shall be made under this Act or until the date upon which they expire.
+
+Section 77
+
+Transfer of powers, rights, liabilities and duties
+
+Subject to the provisions of this Act, all powers, rights, privileges, duties, liabilities or obligations which immediately before the appointed day were those of the EPF Board shall as from that day devolve on the Board.
+
+Section 78
+
+Transfer of property
+
+    Subject to the provisions of this Act, all lands immediately before the appointed day vested in the EPF Board shall, on that day, vest in the Board.
+     
+    Subject to the provisions of this Act and to any direction of the Minister, all property and assets other than land which immediately before the appointed day were vested in the EPF Board or in any person on behalf of the EPF Board shall on that day vest in the Board.
+
+Section 79
+
+Existing contracts
+
+Subject to the provisions of this Act, all deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the appointed day and affecting any of the property transferred under section 78 shall be of full force and effect against or in favour of the Board and enforceable as fully and effectually as if, instead of the EPF Board, or any person acting on behalf of the EPF Board, the Board had been named therein or had been a party thereto.
+
+Section 80
+
+Continuance of criminal and civil proceedings
+
+    Subject to the provisions of this Act, neither the repeal of the repealed Act nor anything contained in this Act shall affect any person's liability to be prosecuted or punished for offences committed under the repealed Act before the appointed day, or any proceedings brought or sentence imposed before that day in respect of such offence.
+     
+    Subject to the provisions of this Act, any proceedings (whether civil or criminal) or cause of action pending or existing immediately before the appointed day by or against the EPF Board or any person acting on behalf of the EPF Board may be continued or instituted by or against the Board as it might have been by or against the EPF Board or such person as if this Act had not been passed.
+     
+    Any appeal brought or any leave to appeal applied on or after the appointed day against a decision given in any legal proceedings before that day may be brought by or against the Board as it might have been brought by or against the EPF Board as if this Act had not been passed.
+
+Section 81
+
+Transfer of Fund
+
+Subject to the provisions of this Act, all moneys standing in, and due to be paid to, the Fund set up under section 4 of the repealed Act shall on the appointed day be transferred to the Fund.
+
+Section 82
+
+Continuance of officers and servants
+
+Every person who immediately before the appointed day was employed as an officer or servant of the EPF Board shall on that day be deemed to be employed as such officer or servant, as the case may be, of the Board upon the same terms and conditions of service as those obtaining immediately before the appointed day.
+
+Section 83
+
+Pending disciplinary proceedings
+
+All disciplinary proceedings which, immediately before the appointed day, were pending against any officer or servant of the EPF Board on or after that date, may be continued against the officer or servant by the appropriate authority of the Board established by this Act.
+
+Section 84
+
+Transfer of member of the Fund
+
+Every employee who immediately before the appointed day was a member of the Fund set up under section 4 of the repealed Act shall on that date be a member of the Fund and subject to all the provisions of this Act relating to the member of the Fund.
+
+Section 85
+
+Transfer of registration of employers
+
+Every employer registered under the provisions of the repealed Act or the rules made thereunder shall be deemed to have been registered under this Act.
+
+Section 86
+
+Prevention of anomalies
+
+    If any difficulty arises with respect to the foregoing transitional provisions of this Act the Minister may, by order, make such modifications in those provisions as may appear to him necessary for preventing anomalies:
+
+    Provided that the Minister shall not exercise the powers conferred by this section after the expiration of two years from the appointed day.
+    In this section, "modifications" includes amendments, additions, deletions, substitutions, adaptations, variations, alterations and non-application of any provision of this Part.
+
+FIRST SCHEDULE
+
+[Section 2]
+
+PERSONS WHO ARE NOT EMPLOYEES
+
+    All nomadic aborigines unless in any particular case the Director General for Orang Asli Affairs otherwise recommends.
+    Domestic servants as defined in section 3 of the Workmen's Compensation Act 1952 [Act 273], except when employed—
+        by any employer specified in the Second Schedule to this Act;
+        by any society registered or required to be registered under any written law for the time being in force relating to the registration of societies or co-operative societies;
+        in any business registered or licensed or required to be registered or licensed under the Registration of Businesses Act 1956 [Act 197], the Trades Licensing Ordinance of Sabah [Sabah Cap. 144], the Businesses, Professions and Trades Licensing Ordinance of Sarawak [Sarawak Cap. 33] or the Businesses Names Ordinance of Sarawak [Sarawak Cap. 64], as the case may be; or
+        by any corporation incorporated under any written law.
+    Domestic servants as defined aforesaid (other than those excepted under paragraph (2)) who have not, in respect of any employment in which they are then engaged, given to the Board and their employers one month's notice in the prescribed form of their intention to be members of the Fund.
+    Outworkers as defined in section 3 of the Workmen's Compensation Act 1952, except when employed by any employer specified in the Second Schedule.
+    Any person detained in any prison, Henry Gurney School, approved school, place of detention, mental hospital, rehabilitation centre having the same meaning in the Drug Dependants (Treatment and Rehabilitation) Act 1983 [Act 283], or leper settlement.
+    [Am. Act A958/1996]
+    (Deleted by Act A1760/2025).
+    (Deleted by Act A1760/2025).
+    Any person who is employed and whose country of domicile is outside Malaysia and who has obtained prior written approval from the Board to participate in accordance with his terms and conditions of service in a provident fund or other scheme established or administered in Malaysia.
+    [Am. Act A958/1996]
+    Any person who is a Member of the Administration as defined under Article 160 of the Federal Constitution.
+    – (12) (Deleted by Act A1190).
+
+(13) Any person who has attained the age of seventy-five years.
+[Ins. Act A1300/ 2007]
+
+SECOND SCHEDULE
+
+[Section 2]
+
+DEFINITION OF “EMPLOYER”
+
+    Public Utilities Board of Singapore.
+    Any Embassy, High Commission, Consulate or any other government and any other such office or department as the Minister may, from time to time by notification in the Gazette, specify for the purposes of this paragraph (in relation to employment in Malaysia in a civil capacity, under a contract of service or under any arrangement entered into in Malaysia or in the Republic of Singapore, not being employment in any established capacity conferring benefits under any law relating to superannuation or pensions).
+
+THIRD SCHEDULE
+
+The contribution rate for employees and employers can be referred in the Third Schedule, EPF Act 1991 as a guide. Employers must remit the employee's contribution share based on this schedule.
+
+Note: The latest Adobe Acrobat Reader (version 8.0 at least) is required to to view, print or download the Third Schedule file.
+
+Enquiry
+
+Should you require further clarification, please contact the following:
+
+    Any EPF Office nearest to you
+    EPF Call Management Centre (CMC) at 03-89226000
+    Enquiry
+
+FOURTH SCHEDULE
+
+(Deleted by Act A914).
+
+FIFTH SCHEDULE
+
+[Subsection 58(1)]
+
+ADDITIONAL AMOUNT PAYABLE WHERE WITHDRAWAL IS MADE UNDER SECTION 54(1)(a)
+
+The additional amount payable is two thousand five hundred ringgit.
+
+[Sub. Act A1080/2000; Am. P.U. (A) 227/2003.]
+
+ 
+
+SIXTH SCHEDULE
+
+[Subsection 58(2)]
+
+ADDITIONAL AMOUNT PAYABLE WHERE WITHDRAWAL IS MADE UNDER SECTION 54(1)(c)
+
+The additional amount payable is five thousand ringgit.
+
+[Sub. Act A1080/2000; Am. P.U. (A) 227/2003.]
+
+SEVENTH SCHEDULE
+
+[Section 26C]
+
+THE PROVISIONS APPLICABLE TO A CORPORATION ESTABLISHED BY THE BOARD
+
+ 
+
+[Ins. Act A958/1996]​
+
+1. Duty of the Board to make regulations in respect of a corporation
+
+The Board shall, on or before the date on which a corporation is established, make regulations in respect of the corporation defining—
+
+    the purposes and objects for which the corporation is established;
+    the rights, powers, duties and functions of the corporation;
+    the system of management of the corporation; and
+    the relationship between the corporation and the Board and the right of control over the corporation.
+
+2. Scope of corporation
+
+Nothing in this Act shall be construed to authorize the Board to establish any corporation for any purpose or object more extensive in scope than the purposes or objects for which the Board was constituted or as conferring on any corporation any right, duty, power or function which is not within the rights, duties, powers or functions of the Board under this Act.
+
+3. Binding effect of such regulations
+
+Subject to the provisions of this Act, and of any regulations made under section 71, regulations made under paragraph 1 shall be binding on the corporation in respect of which they were made and shall have effect for all purposes under this Act.
+
+4. Register of corporation
+
+The Board shall keep a register in the prescribed form of all corporations and such register together with copies of all regulations made under paragraph 1 shall be open to public inspection at such places and at such times as the Board may determine.
+
+5. Winding-up
+
+    The Board may by order published in the Gazette direct that any corporation be wound up and dissolved.
+    Upon the dissolution of any corporation under this paragraph, the assets of the corporation, after payment of all liabilities, shall be transferred to and vested in the Board.
+
+ 
+
+6. Legal character of a corporation
+
+Every corporation shall be a body corporate by such name as the Board shall give to such corporation and shall have perpetual succession and a common seal and may sue and be sued in such name, and for the purpose of effecting the purposes and objects for which it was established, may enter into contracts and hold and deal in or with any movable or immovable property and may do all other matters and things incidental or appertaining to a body corporate not inconsistent with the provisions of this Act and subject to such restrictions or limitations as may be prescribed by the Board.
+
+ 
+
+7. Common seal of a corporation
+
+    Every corporation shall have a common seal, which shall bear such device as the corporation, with the approval of the Board, may approve, and the seal may from time to time be broken, changed, altered and made anew by the corporation, with approval of the Board.
+    Until a seal is provided by the corporation under this paragraph, the common seal of the Employees Provident Fund Board may be used as the common seal of the corporation.
+    The common seal shall be kept in the custody of, and shall be authenticated by, any person as the corporation may direct.
+    All deeds, documents and other instruments purporting to be sealed with the common seal of the corporation and authenticated by the person in whose custody of the common seal is kept shall, until the contrary is proved, be deemed to have been validly executed.
+
+EIGHTH SCHEDULE
+
+[Sections 53D and 53E]
+
+ELECTION BY A MEMBER OF THE FUND TO TRANSFER HIS CONTRIBUTIONS 
+
+Transfer of contributions of a member of the Fund into the account of another member of the Fund who is or are his lawful wife or wives  
+
+    Subject to the criteria specified in columns (1) and (2) of the following table, a member of the Fund may elect to transfer his contributions at the rate specified in column (3) into the account of another member of the Fund who is or are his lawful wife or wives and their marriage has been registered under the laws of Malaysia.
+     
+    The transfer of contributions may be ceased by the member of the Fund who elects to transfer his contributions upon the occurrence of any of the following circumstances:
+
+             (a)  dissolution of marriage between the member of the Fund who elects to transfer his contributions and the member of the Fund who receives the contributions transferred;
+
+             (b)  death of the member of the Fund who receives the contributions transferred.  
+
+(1)
+
+Criteria of a member of the Fund who elects to transfer his contributions
+
+(2)
+
+Criteria of a member of the Fund who receives the contributions transferred
+
+(3)
+
+Rate of contributions to be transferred
+
+The member of the Fund—
+(a) is a Malaysian citizen or is not a Malaysian citizen; and
+(b) receives employer's contributions on a monthly basis
+The member of the Fund is a Malaysian citizen
+2%
+(A+B)
+x
+C
+where
+A
+is the rate of employee’s contributions under subsection 43(1) of the Act
+B
+is the rate of contributions exceeding the rate of employee’s contributions under subsection 43(1) of the Act elected under subsection 43(3) of the Act
+C
+is the total of employee’s contributions of the member of the Fund who elects to transfer such contributions
+
+
+The total contributions which includes cents shall be rounded to the next ringgit.
+
+[Ins. Act A1611/2019; Am. P.U. (A) 273/2020; Am. P.U. (A) 388/2020; Am. P.U. (A) 500/2021;
+Am. P.U. (A) 219/2022; Am. P.U. (A) 38/2026]
+List of Amendments
+
+ 
+
+Act 452
+
+EMPLOYEES PROVIDENT FUND ACT 1991
+
+LIST OF AMENDMENTS
+Amending Law 	Short title 	In force form
+P.U. (A) 551/92 	Employees Provident Fund (Amendment of Third Schedule) Order 1992 	01/01/1993
+Act A914 	Employees Provident Fund (Amendment) Act 1995 	Section 26A (1)((a)-(c)) and (2 - 4), Section26B (b),Section27 - 01/11/1994, P.U. (B) 478/95
+Other sections except Section 24 - 01/08/1995, P.U. (B) 356/95
+P.U. (A) 30/96 	Employees Provident Fund (Amendment of Third Schedule) Order 1996 	01/01/1996
+Act A958 	Employees Provident Fund (Amendment) Act 1996 	31/10/1996, P.U. (B) 447/96
+P.U. (A) 290/98 	Employees Provident Fund (Amendment of First Schedule and Third Schedule) Order 1998 	01/08/1998
+P.U. (A) 414/98 	Employees Provident Fund (Amendment of First Schedule and Third Schedule) (No. 2) Order 1998 	01/08/1998
+Act A1080 	Employees Provident Fund (Amendment) Act 2000 	01/07/2000; except paragraph 54(6)(g): 01/04/2000
+P.U. (A) 135/2001 	Employees Provident Fund (Amendment of Third Schedule) Order 2001 	31/03/2002
+Act A1123 	Employees Provident Fund (Amendment) Act 2001 	Paragraph 5(b) & Section 8-9 01/07/2000; Paragraph 5(a) and (e) & Section 6-7 01/01-2001
+Act 1190 	Employees Provident Fund (Amendment) Act 2003 	01/08/2001 except Section 2 - 19/08/2002
+P.U. (A) 171/2003 	Employees Provident Fund (Amendment of Third Schedule) Order 2003 	01/06/2003 until 31/05/2004
+P.U. (A) 227/2003 	Employees Provident Fund (Amendment of Fifth and Sixth Schedules) Order 2003 	26/11/2002
+P.U. (A) 178/2004 	Employees Provident Fund (Amendment of Third Schedule) Order 2004 	01/06/2004
+Act A1300 	Employees Provident Fund (Amendment) Act 2007 	01/09/2007;Section 2, paragraphs 3(a) and (c), sections 4, 5, 6, 7, 8, 13, 14, 15, paragraphs 16(a) dan (c), sections 18, 19, paragraphs 23(b) and (c), subparagraphs 23(f)(ii), sections 24, 25, 31, 32, 34 and paragraphs 35(a), (b), (d) and (e).[P.U. (B) 310/2007]
+01/11/2007;Paragraph 3(b), subparagraph 23(f)(i), paragraph (i) in subparagraph 23(f)(iv), section 26, 28, 29 and 30.[P.U. (B) 413/2007]
+01/02/2008 ; paragraph 16(b), sections 20, 21, paragraphs 23(a), (d) and (e), sections 27, 33, 37, 38 and 39
+[P.U.(B) 52/2008]
+01/07/2008;sections 9,10,11,12,17,22 and paragraph 36(b).
+[P.U.(B) 264/2008]
+P.U.(A) 467/2008 	Employees Provident Fund (Amendment of Third Schedule) Order 2008 	01/01/2009 until 31/12/2010
+P.U.(A) 479/2010 	Employees Provident Fund (Amendment of Third Schedule) Order 2010 	01/01/2010
+P.U. (A) 425/2011 	Employees Provident Fund (Amendment of Third Schedule) Order 2011 	01/01/2012
+P.U.(A) 498/2012 	Employees Provident Fund (Addition and Modification To The Purposes For Withdrawal Under Subsection 54(6)) Order 2012 	01/01/2013
+P.U.(A) 251/2013 	Employees Provident Fund (Amendment of Third Schedule) Order 2011 	01/08/2013
+Act A1504 	Employees Provident Fund (Amendment) Act 2016 	- Sections 2, 4, 12, 16, 19, 23, paragraphs 24(b) and (c) of the Act comes into operation on 01/04/2016 [P.U. (B) 136/2016]
+- Sections 3, 5, 7, 8, 9, 10, 17 and 18, and paragraph
+24(a) of the Act comes into operation on 01/08/2016
+[P.U. (B) 320/2016]
+-Sections 11, 13, 15, 20 and 21 of the Act comes into operation on 01/01/2017
+[P.U. (B) 507/2016]
+P.U. (A) 21/20016 	Employees Provident Fund (Amendment of Third Schedule) Order 2016 	01/03/2016 until 31/12/2017
+P.U. (A) 430/2017 	Employees Provident Fund (Amendment of Third Schedule) Order 2017 	1-1-2018 until 31-12-2018
+P.U. (A) 370/2018 	Employees Provident Fund (Amendment of Third Schedule) Order 2018 	1-1-2019
+Act A1611 	Employees Provident Fund (Amendment) Act 2019  	15-03-2020 except sections 6, 8 and 11 of the Act [P.U. (B) 158/2020]
+Sections 6, 8, and 11 of the Act comes into operation on 1-10-2020 [P.U. (B) 468/2020]
+P.U. (A) 96/2020 	Employees Provident Fund (Amendment of Third Schedule) Order 2020  	1-4-2020 until 31-12-2020 
+P.U. (A) 135/2020  	Employees Provident Fund (Addition and Modification To The Purposes For Withdrawal Under Subsection 54(6)) Order 2020  	1-4-2020
+P.U. (A) 273/2020 	Employees Provident Fund (Amendment of Eighth Schedule) Order 2020 	1-10-2020 until 31-12-2020
+P.U. (A) 387/2020 	Employees Provident Fund (Amendment of Third Schedule) (No.2) Order 2020  	1-1-2021 until 31-12-2021 
+P.U. (A) 388/2020 	Employees Provident Fund (Amendment of Eighth Schedule) (No.2) Order 2020  	1-1-2021 until 31-12-2021 
+P.U. (A) 389/2020 	Employees Provident Fund (Addition and Modification To The Purposes For Withdrawal Under Subsection 54(6)) (No. 2) Order 2020  	1-1-2021
+P.U. (A) 177/2021 	Employees Provident Fund (Modification To The Purposes For Withdrawal Under Subsection 54(6)) Order 2021 	1-5-2021
+P.U. (A) 253/2021 	Employees Provident Fund (Modification To The Purposes For Withdrawal Under Subsection 54(6)) (No. 2) Order 2021 	8-6-2021
+P.U. (A) 306/2021 	Employees Provident Fund (Addition and Modification To The Purpose For Withdrawal Under Subsection 54(6)) Order 2021 	15-7-2021
+P.U.(A) 467/2021 	Employees Provident Fund (Amendment of Third Schedule) (No. 2) (Extension Of Operation) Order 2021 	01-01-2022 to 30-06-2022
+P.U.(A) 500/2021 	Employees Provident Fund (Amendment of Eighth Schedule) (No. 2) (Extension Of Operation) Order 2021 	01-01-2022 to 30-06-2022
+P.U.(A) 108/2022 	Employees Provident Fund (Addition And Modification To The Purposes For Withdrawal Under Subsection 54(6)) Order 2022 	15-04-2022 to 30-06-2022
+P.U.(A) 151/2022 	Employees Provident Fund (Modification To The Purposes For Withdrawal Under Subsection 54(6)) Order 2022 	01-07-2022
+P.U.(A) 218/2022 	Employees Provident Fund (Amendment of Third Schedule) Order 2022 	01-07-2022
+P.U.(A) 219/2022 	Employees Provident Fund (Amendment of Eighth Schedule) Order 2022 	01-07-2022
+
+Member
+
+    Register As A Member
+    Grow Your Savings
+    Manage Your EPF Account
+    Home Ownership
+    Financial Life Stages
+    Health Protection
+    KWSP i-Akaun App
+
+Employer
+
+    Introduction
+    Responsibilities
+    Online Platform
+    Employers Education Programme
+
+Corporate
+
+    About Us
+    Organisational Structure
+    News & Highlights
+    Publications & Research
+    Investment
+    Sustainability
+    Corporate Governance
+    Careers
+    Procurement
+    Business Partners
+    Whistleblowing & Anti‑Fraud
+    Contact Us
+
+Others
+
+    Terms & Conditions
+    Privacy Policy
+    Security Policy
+    Disclaimer
+    Online Security Tips
+    Other Links
+    Forms
+    Resource Centre
+    Achievements
+
+WhatsApp UsConnect With Us
