@@ -11,7 +11,8 @@ load_dotenv()
 
 DB_PATH = os.path.join("data", "kwsp.duckdb")
 EMBED_MODEL = "intfloat/multilingual-e5-small"
-TOP_K = 3
+TOP_K = 5
+NEIGHBOUR_WINDOW = 2
 
 # best first; if one fails, the next one is tried
 GEMINI_MODELS = [
@@ -46,7 +47,7 @@ def retrieve(question):
     vector = embedder.encode("query: " + question, normalize_embeddings=True).tolist()
     hits = cursor.execute(
         f"""
-        SELECT c.chunk_id, c.file_name, c.page_number, c.chunk_text,
+        SELECT c.chunk_id, c.file_name, c.location,
                list_cosine_similarity(e.embedding, ?::FLOAT[]) AS score
         FROM chunk_embeddings e
         JOIN chunks c ON c.chunk_id = e.chunk_id
@@ -56,34 +57,44 @@ def retrieve(question):
         [vector],
     ).fetchall()
 
-    results = []
-    for chunk_id, file_name, page_number, chunk_text, score in hits:
+    sources = []
+    seen = {}
+    for chunk_id, file_name, location, score in hits:
+        key = (file_name, location)
+        if key not in seen:
+            seen[key] = {
+                "file_name": file_name,
+                "location": location,
+                "score": score,
+                "chunks": {},
+            }
+            sources.append(seen[key])
+
         neighbours = cursor.execute(
             """
-            SELECT chunk_text
+            SELECT chunk_id, chunk_text
             FROM chunks
             WHERE file_name = ?
+              AND location = ?
               AND chunk_id BETWEEN ? AND ?
             ORDER BY chunk_id
             """,
-            [file_name, chunk_id - 1, chunk_id + 1],
+            [file_name, location, chunk_id - NEIGHBOUR_WINDOW, chunk_id + NEIGHBOUR_WINDOW],
         ).fetchall()
-        full_text = " ".join(row[0] for row in neighbours)
-        results.append((chunk_id, file_name, page_number, full_text, score))
-    return results
+        for neighbour_id, neighbour_text in neighbours:
+            seen[key]["chunks"][neighbour_id] = neighbour_text
+
+    for source in sources:
+        ids = sorted(source["chunks"])
+        source["text"] = "\n".join(source["chunks"][i] for i in ids)
+    return sources
 
 
-def where_text(page_number):
-    if page_number:
-        return f"page {page_number}"
-    return "no page number"
-
-
-def build_prompt(question, results):
-    sources = ""
-    for number, row in enumerate(results, start=1):
-        chunk_id, file_name, page_number, chunk_text, score = row
-        sources += f"[{number}] ({file_name}, {where_text(page_number)})\n{chunk_text}\n\n"
+def build_prompt(question, sources):
+    source_text = ""
+    for number, source in enumerate(sources, start=1):
+        source_text += f"[{number}] ({source['file_name']}, {source['location']})\n"
+        source_text += source["text"] + "\n\n"
 
     return (
         "You answer questions about the Malaysian EPF (KWSP) Act using only the sources below.\n"
@@ -93,10 +104,9 @@ def build_prompt(question, results):
         "- Cite the sources you used, like [1] or [2].\n"
         "- Answer in the same language as the question.\n"
         "- Keep the answer short.\n\n"
-        f"Sources:\n{sources}"
+        f"Sources:\n{source_text}"
         f"Question: {question}\n"
     )
-
 
 def ask_gemini(prompt):
     for model_name in GEMINI_MODELS:
@@ -149,15 +159,14 @@ if question:
 
     with st.chat_message("assistant"):
         with st.spinner("Searching the documents..."):
-            results = retrieve(question)
-            prompt = build_prompt(question, results)
+            sources = retrieve(question)
+            prompt = build_prompt(question, sources)
             answer, used_model = ask_gemini(prompt)
 
         source_items = []
-        for number, row in enumerate(results, start=1):
-            chunk_id, file_name, page_number, chunk_text, score = row
-            label = f"[{number}] {file_name}, {where_text(page_number)} (match {score:.2f})"
-            source_items.append({"label": label, "text": chunk_text})
+        for number, source in enumerate(sources, start=1):
+            label = f"[{number}] {source['location']} ({source['file_name']}, match {source['score']:.2f})"
+            source_items.append({"label": label, "text": source["text"]})
 
         if answer is None:
             answer = "The AI model is busy right now, so here are the closest passages from the documents instead."

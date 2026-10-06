@@ -15,8 +15,15 @@ SKIP_FILES = ["kwsp_bm_02.pdf", "kwsp_en_01.pdf", "kwsp_en_02.pdf"]
 JUNK_PHRASES = [
     "Skip to Main Content",
     "Ahli Majikan Korporat BM",
-    "WhatsApp UsConnect With Us"
+    "WhatsApp UsConnect With Us",
+    "Member Employer Corporate EN",
     ]
+
+# everything after these markers is the amendment history table and website footer
+CUT_MARKERS = [
+    "List of Amendments Act 452",
+    "Senarai Pindaan Act 452",
+]
 
 def clean(text):
     kept_lines = []
@@ -34,6 +41,32 @@ def clean(text):
     # website menu text that came along when copying a page
     for phrase in JUNK_PHRASES:
         text = text.replace(phrase, " ")
+
+    # website download notes about Adobe Acrobat and enquiries
+    text = re.sub(
+        r"Note: The latest Adobe Acrobat Reader.*?Call Management Centre \(CMC\) at [\d-]+ Enquiry",
+        " ",
+        text,
+    )
+    text = re.sub(r"Nota: Perisian Adobe Acrobat Reader.*?Kemukakan Pertanyaan", " ", text)
+
+        # leave out Part IX (repeal and transitional provisions about the old 1951 Act)
+    text = re.sub(
+        r"PART IX REPEAL AND TRANSITIONAL PROVISIONS.*?(?=FIRST SCHEDULE \[Section 2\])",
+        " ",
+        text,
+    )
+    text = re.sub(
+        r"BAHAGIAN IX PERUNTUKAN PEMANSUHAN DAN PERALIHAN.*?(?=JADUAL PERTAMA \[Seksyen 2\])",
+        " ",
+        text,
+    )
+
+    # cut the amendment history table and website footer at the end
+    for marker in CUT_MARKERS:
+        position = text.find(marker)
+        if position != -1:
+            text = text[:position]
 
     text = re.sub(r"\s+", " ", text)
     return text.strip()

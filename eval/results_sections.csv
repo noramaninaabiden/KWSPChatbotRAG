@@ -1,0 +1,37 @@
+id,language,question,top3_hit,with_neighbours_hit,chunk_ids
+1,en,Who is not allowed to serve on the Board?,False,False,334 331 279
+2,bm,Siapakah yang tidak layak menjadi ahli Lembaga?,True,True,41 21 22
+3,manglish,Boleh tak orang yang bankrap jadi board member?,False,False,304 278 198
+4,en,How long can a person serve on the Board in total?,True,True,281 331 334
+5,bm,Berapa lama seseorang boleh berkhidmat dalam Lembaga secara keseluruhan?,True,True,23 21 26
+6,manglish,Paling lama berapa tahun boleh jadi board member KWSP?,True,True,23 188 39
+7,en,What happens to a Board member who keeps missing meetings?,True,True,283 280 282
+8,bm,Apa jadi kalau ahli Lembaga tidak hadir mesyuarat beberapa kali berturut-turut?,True,True,25 26 23
+9,manglish,"Kalau board member skip meeting banyak kali, jawatan dia hilang ke?",True,True,283 282 279
+10,en,How many people must be present for a Board meeting to be valid?,True,True,280 284 283
+11,bm,Berapa orang yang perlu hadir supaya mesyuarat Lembaga sah?,True,True,26 25 21
+12,manglish,Berapa orang kena ada untuk board meeting boleh start?,True,True,26 39 238
+13,en,Who sits on the Investment Panel?,True,True,297 294 293
+14,bm,Siapakah ahli Panel Pelaburan?,True,True,39 36 37
+15,manglish,Siapa saja yang ada dalam Investment Panel?,True,True,294 293 297
+16,en,How many members are needed for an Investment Panel meeting to go ahead?,False,False,294 295 293
+17,bm,Berapa ahli diperlukan untuk mesyuarat Panel Pelaburan diadakan?,True,True,39 38 37
+18,manglish,Berapa orang minimum untuk Investment Panel meeting?,False,False,36 47 294
+19,en,Does a member have to declare it if their family has a stake in something being discussed?,False,False,301 378 291
+20,bm,Adakah ahli perlu mengisytiharkan jika keluarganya mempunyai kepentingan dalam perkara yang dibincangkan?,True,True,42 44 301
+21,manglish,"Kalau anak board member ada interest dalam satu perkara, dia kena declare tak?",True,True,300 299 334
+22,en,Who can be appointed to the Shariah Advisory Committee?,True,True,302 304 303
+23,bm,Siapakah yang boleh dilantik ke Jawatankuasa Penasihat Shariah?,True,True,47 45 46
+24,manglish,Siapa boleh jadi ahli Shariah Advisory Committee?,True,True,302 45 304
+25,en,Is there a minimum dividend rate the EPF must declare?,True,True,322 323 324
+26,bm,Adakah terdapat kadar dividen minimum yang mesti diisytiharkan oleh KWSP?,True,True,230 68 200
+27,manglish,Berapa minimum dividen yang KWSP kena bagi?,True,True,230 68 183
+28,en,Can my employer take its own EPF contribution out of my salary?,True,True,381 376 380
+29,bm,Bolehkah majikan memotong caruman majikan daripada gaji saya?,True,True,133 136 135
+30,manglish,Majikan boleh tak potong gaji aku untuk bayar bahagian caruman dia?,True,True,133 383 380
+31,en,When must a new employer register with the EPF?,False,False,365 262 482
+32,bm,Bilakah majikan baharu perlu mendaftar dengan KWSP?,True,True,113 136 146
+33,manglish,Bila company baru kena register dengan KWSP?,True,True,61 39 113
+34,en,How long do I have to dispute the amount of an EPF withdrawal?,True,True,436 437 442
+35,bm,Berapa lama masa yang saya ada untuk mempertikaikan amaun pengeluaran KWSP?,True,True,196 195 203
+36,manglish,Boleh complain berapa lama lepas withdraw kalau jumlah salah?,False,False,206 203 41

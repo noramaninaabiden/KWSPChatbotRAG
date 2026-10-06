@@ -1,0 +1,37 @@
+id,topic,language,question,expected
+1,board_disqualification,en,Who is not allowed to serve on the Board?,unsound mind
+2,board_disqualification,bm,Siapakah yang tidak layak menjadi ahli Lembaga?,tidak sempurna akal
+3,board_disqualification,manglish,Boleh tak orang yang bankrap jadi board member?,unsound mind|tidak sempurna akal
+4,board_max_term,en,How long can a person serve on the Board in total?,total term of more than twelve years
+5,board_max_term,bm,Berapa lama seseorang boleh berkhidmat dalam Lembaga secara keseluruhan?,tempoh keseluruhan melebihi dua belas tahun
+6,board_max_term,manglish,Paling lama berapa tahun boleh jadi board member KWSP?,total term of more than twelve years|tempoh keseluruhan melebihi dua belas tahun
+7,board_absence,en,What happens to a Board member who keeps missing meetings?,three consecutive meetings of the Board
+8,board_absence,bm,Apa jadi kalau ahli Lembaga tidak hadir mesyuarat beberapa kali berturut-turut?,tiga mesyuarat Lembaga secara berturut-turut
+9,board_absence,manglish,"Kalau board member skip meeting banyak kali, jawatan dia hilang ke?",three consecutive meetings of the Board|tiga mesyuarat Lembaga secara berturut-turut
+10,board_quorum,en,How many people must be present for a Board meeting to be valid?,and eight other members shall form a quorum
+11,board_quorum,bm,Berapa orang yang perlu hadir supaya mesyuarat Lembaga sah?,dan lapan orang ahli lain adalah membentuk kuorum
+12,board_quorum,manglish,Berapa orang kena ada untuk board meeting boleh start?,and eight other members shall form a quorum|dan lapan orang ahli lain adalah membentuk kuorum
+13,panel_membership,en,Who sits on the Investment Panel?,four other persons who shall have knowledge or experience
+14,panel_membership,bm,Siapakah ahli Panel Pelaburan?,empat orang lain yang hendaklah mempunyai pengetahuan
+15,panel_membership,manglish,Siapa saja yang ada dalam Investment Panel?,four other persons who shall have knowledge or experience|empat orang lain yang hendaklah mempunyai pengetahuan
+16,panel_quorum,en,How many members are needed for an Investment Panel meeting to go ahead?,and two other members of the Investment Panel shall form a quorum
+17,panel_quorum,bm,Berapa ahli diperlukan untuk mesyuarat Panel Pelaburan diadakan?,dan dua orang ahli lain Panel Pelaburan
+18,panel_quorum,manglish,Berapa orang minimum untuk Investment Panel meeting?,and two other members of the Investment Panel shall form a quorum|dan dua orang ahli lain Panel Pelaburan
+19,interest_disclosure,en,Does a member have to declare it if their family has a stake in something being discussed?,his spouse or children
+20,interest_disclosure,bm,Adakah ahli perlu mengisytiharkan jika keluarganya mempunyai kepentingan dalam perkara yang dibincangkan?,suami-isteri atau anak-anaknya
+21,interest_disclosure,manglish,"Kalau anak board member ada interest dalam satu perkara, dia kena declare tak?",his spouse or children|suami-isteri atau anak-anaknya
+22,shariah_committee,en,Who can be appointed to the Shariah Advisory Committee?,persons who are qualified in Shariah
+23,shariah_committee,bm,Siapakah yang boleh dilantik ke Jawatankuasa Penasihat Shariah?,berkelayakan dalam Shariah
+24,shariah_committee,manglish,Siapa boleh jadi ahli Shariah Advisory Committee?,qualified in Shariah|berkelayakan dalam Shariah
+25,dividend_minimum,en,Is there a minimum dividend rate the EPF must declare?,two and one half per centum per annum
+26,dividend_minimum,bm,Adakah terdapat kadar dividen minimum yang mesti diisytiharkan oleh KWSP?,dua setengah peratus setahun
+27,dividend_minimum,manglish,Berapa minimum dividen yang KWSP kena bagi?,two and one half per centum per annum|dua setengah peratus setahun
+28,employer_deduction,en,Can my employer take its own EPF contribution out of my salary?,shall not be entitled to deduct or otherwise recover
+29,employer_deduction,bm,Bolehkah majikan memotong caruman majikan daripada gaji saya?,tidaklah berhak memotong atau selainnya mendapatkan kembali
+30,employer_deduction,manglish,Majikan boleh tak potong gaji aku untuk bayar bahagian caruman dia?,shall not be entitled to deduct or otherwise recover|tidaklah berhak memotong atau selainnya mendapatkan kembali
+31,employer_registration,en,When must a new employer register with the EPF?,before the end of the first week in the first month
+32,employer_registration,bm,Bilakah majikan baharu perlu mendaftar dengan KWSP?,sebelum berakhirnya minggu pertama di dalam bulan pertama
+33,employer_registration,manglish,Bila company baru kena register dengan KWSP?,before the end of the first week in the first month|sebelum berakhirnya minggu pertama di dalam bulan pertama
+34,withdrawal_dispute,en,How long do I have to dispute the amount of an EPF withdrawal?,within twelve months from the date of withdrawal
+35,withdrawal_dispute,bm,Berapa lama masa yang saya ada untuk mempertikaikan amaun pengeluaran KWSP?,dalam masa dua belas bulan dari tarikh pengeluaran
+36,withdrawal_dispute,manglish,Boleh complain berapa lama lepas withdraw kalau jumlah salah?,within twelve months from the date of withdrawal|dalam masa dua belas bulan dari tarikh pengeluaran
