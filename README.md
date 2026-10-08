@@ -107,7 +107,7 @@ Misses at the final setting:
 ## Run locally (Windows PowerShell)
 
 ```
-git clone https://github.com/YOUR-USERNAME/KWSP_RAG.git
+git clone https://github.com/noramaninaabiden/KWSP_RAG.git
 cd KWSP_RAG
 python -m venv .venv
 .venv\Scripts\Activate.ps1
